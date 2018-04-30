@@ -1,0 +1,513 @@
+[DEBUG] 2018-04-30 09:47:02 0.0 gigapixels total video conten 
+[DEBUG] 2018-04-30 09:47:02 9 frame 
+[DEBUG] 2018-04-30 09:47:02 3.6 megapixels per frame (1825px x 1954px 
+[DEBUG] 2018-04-30 09:47:02 Estimated final space required: 0.0 M 
+[DEBUG] 2018-04-30 09:47:02 Wrote /Users/eculbertson/Downloads/time_machine/time_machine.timemachine/tm.j 
+[DEBUG] 2018-04-30 09:47:02 Wrote /Users/eculbertson/Downloads/time_machine/time_machine.timemachine/tm.jso 
+[DEBUG] 2018-04-30 09:47:02 Wrote /Users/eculbertson/Downloads/time_machine/time_machine.timemachine/crf24-3fps-1708x960/r.j 
+[DEBUG] 2018-04-30 09:47:02 Wrote /Users/eculbertson/Downloads/time_machine/time_machine.timemachine/crf24-3fps-1708x960/r.jso 
+[DEBUG] 2018-04-30 09:47:02 /Applications/Time Machine Creator.app/Contents/ct/ct.rb:1919: warning: class variable access from topleve 
+[DEBUG] 2018-04-30 09:47:02 /Applications/Time Machine Creator.app/Contents/ct/ct.rb:1921: warning: class variable access from topleve 
+[DEBUG] 2018-04-30 09:47:02 Wrote initial /Users/eculbertson/Downloads/time_machine/time_machine.timemachine/ajax_includes.j 
+[DEBUG] 2018-04-30 09:47:02    16 base tiles per input frame (512x512 px 
+[DEBUG] 2018-04-30 09:47:02 crf24-3fps-1708x960: 15 videos (All 
+[DEBUG] 2018-04-30 09:47:02 Checking targets from 49 rules...  0%  0%  2%  4%  6%  8% 10% 12% 14% 16% 18% 20% 22% 24% 26% 28% 30% 32% 34% 36% 38% 40% 42% 44% 46% 48% 51% 53% 55% 57% 59% 61% 63% 65% 67% 69% 71% 73% 75% 77% 79% 81% 83% 85% 87% 89% 91% 93% 95% 97%done 
+[DEBUG] 2018-04-30 09:47:02 2018-04-30 09:47:02 Rules 0.0% rules finished (0/49). 9 rules ready to execute. 40 rules awaiting dependencie 
+[DEBUG] 2018-04-30 09:47:02 2018-04-30 09:47:02 Job 1 executing 1 rules [Rule: /Users/eculbertson/Downloads/time_machine/time_machine.tmc/0200-tiles/movie_maker - 8.data/tiles].. 
+[DEBUG] 2018-04-30 09:47:02 2018-04-30 09:47:02 Job 2 executing 1 rules [Rule: /Users/eculbertson/Downloads/time_machine/time_machine.tmc/0200-tiles/movie_maker - 7.data/tiles].. 
+[DEBUG] 2018-04-30 09:47:02 2018-04-30 09:47:02 Job 2 executing /Applications/Time Machine Creator.app/Contents/tilestacktool/tilestacktool --tilesize 512 --image2tiles /Users/eculbertson/Downloads/time_machine/time_machine.tmc/0200-tiles/movie_maker - 7.data/tiles kro /Users/eculbertson/Desktop/movie_change/with-rectangle/try_again/movie_maker - 7.jp 
+[DEBUG] 2018-04-30 09:47:02 2018-04-30 09:47:02 Job 1 executing /Applications/Time Machine Creator.app/Contents/tilestacktool/tilestacktool --tilesize 512 --image2tiles /Users/eculbertson/Downloads/time_machine/time_machine.tmc/0200-tiles/movie_maker - 8.data/tiles kro /Users/eculbertson/Desktop/movie_change/with-rectangle/try_again/movie_maker - 8.jp 
+[DEBUG] 2018-04-30 09:47:02 Read 0 tiles from 0 tilestacks 
+[DEBUG] 2018-04-30 09:47:02 0 images rendere 
+[DEBUG] 2018-04-30 09:47:02 User time 0.071455, System time 0.01531 
+[DEBUG] 2018-04-30 09:47:02 2018-04-30 09:47:02 Job 1 completed successfull 
+[DEBUG] 2018-04-30 09:47:02 2018-04-30 09:47:02 Rules 2.0% rules finished (1/49). 1 rules executing (in 1 jobs). 7 rules ready to execute. 40 rules awaiting dependencie 
+[DEBUG] 2018-04-30 09:47:02 2018-04-30 09:47:02 Job 3 executing 1 rules [Rule: /Users/eculbertson/Downloads/time_machine/time_machine.tmc/0200-tiles/movie_maker - 6.data/tiles].. 
+[DEBUG] 2018-04-30 09:47:02 2018-04-30 09:47:02 Job 3 executing /Applications/Time Machine Creator.app/Contents/tilestacktool/tilestacktool --tilesize 512 --image2tiles /Users/eculbertson/Downloads/time_machine/time_machine.tmc/0200-tiles/movie_maker - 6.data/tiles kro /Users/eculbertson/Desktop/movie_change/with-rectangle/try_again/movie_maker - 6.jp 
+[DEBUG] 2018-04-30 09:47:02 Read 0 tiles from 0 tilestacks 
+[DEBUG] 2018-04-30 09:47:02 0 images rendere 
+[DEBUG] 2018-04-30 09:47:02 User time 0.077159, System time 0.01612 
+[DEBUG] 2018-04-30 09:47:02 2018-04-30 09:47:02 Job 2 completed successfull 
+[DEBUG] 2018-04-30 09:47:02 2018-04-30 09:47:02 Rules 4.1% rules finished (2/49). 1 rules executing (in 1 jobs). 6 rules ready to execute. 40 rules awaiting dependencie 
+[DEBUG] 2018-04-30 09:47:02 2018-04-30 09:47:02 Job 4 executing 1 rules [Rule: /Users/eculbertson/Downloads/time_machine/time_machine.tmc/0200-tiles/movie_maker - 5.data/tiles].. 
+[DEBUG] 2018-04-30 09:47:02 2018-04-30 09:47:02 Job 4 executing /Applications/Time Machine Creator.app/Contents/tilestacktool/tilestacktool --tilesize 512 --image2tiles /Users/eculbertson/Downloads/time_machine/time_machine.tmc/0200-tiles/movie_maker - 5.data/tiles kro /Users/eculbertson/Desktop/movie_change/with-rectangle/try_again/movie_maker - 5.jp 
+[DEBUG] 2018-04-30 09:47:02 Read 0 tiles from 0 tilestacks 
+[DEBUG] 2018-04-30 09:47:02 0 images rendere 
+[DEBUG] 2018-04-30 09:47:02 User time 0.084204, System time 0.0180 
+[DEBUG] 2018-04-30 09:47:02 2018-04-30 09:47:02 Job 3 completed successfull 
+[DEBUG] 2018-04-30 09:47:02 2018-04-30 09:47:02 Rules 6.1% rules finished (3/49). 1 rules executing (in 1 jobs). 5 rules ready to execute. 40 rules awaiting dependencie 
+[DEBUG] 2018-04-30 09:47:02 2018-04-30 09:47:02 Job 5 executing 1 rules [Rule: /Users/eculbertson/Downloads/time_machine/time_machine.tmc/0200-tiles/movie_maker - 4.data/tiles].. 
+[DEBUG] 2018-04-30 09:47:02 2018-04-30 09:47:02 Job 5 executing /Applications/Time Machine Creator.app/Contents/tilestacktool/tilestacktool --tilesize 512 --image2tiles /Users/eculbertson/Downloads/time_machine/time_machine.tmc/0200-tiles/movie_maker - 4.data/tiles kro /Users/eculbertson/Desktop/movie_change/with-rectangle/try_again/movie_maker - 4.jp 
+[DEBUG] 2018-04-30 09:47:02 Read 0 tiles from 0 tilestacks 
+[DEBUG] 2018-04-30 09:47:02 0 images rendere 
+[DEBUG] 2018-04-30 09:47:02 User time 0.101589, System time 0.02233 
+[DEBUG] 2018-04-30 09:47:02 2018-04-30 09:47:02 Job 4 completed successfull 
+[DEBUG] 2018-04-30 09:47:02 2018-04-30 09:47:02 Rules 8.2% rules finished (4/49). 1 rules executing (in 1 jobs). 4 rules ready to execute. 40 rules awaiting dependencie 
+[DEBUG] 2018-04-30 09:47:02 2018-04-30 09:47:02 Job 6 executing 1 rules [Rule: /Users/eculbertson/Downloads/time_machine/time_machine.tmc/0200-tiles/movie_maker - 3.data/tiles].. 
+[DEBUG] 2018-04-30 09:47:02 2018-04-30 09:47:02 Job 6 executing /Applications/Time Machine Creator.app/Contents/tilestacktool/tilestacktool --tilesize 512 --image2tiles /Users/eculbertson/Downloads/time_machine/time_machine.tmc/0200-tiles/movie_maker - 3.data/tiles kro /Users/eculbertson/Desktop/movie_change/with-rectangle/try_again/movie_maker - 3.jp 
+[DEBUG] 2018-04-30 09:47:02 Read 0 tiles from 0 tilestacks 
+[DEBUG] 2018-04-30 09:47:02 0 images rendere 
+[DEBUG] 2018-04-30 09:47:02 User time 0.124923, System time 0.02940 
+[DEBUG] 2018-04-30 09:47:02 2018-04-30 09:47:02 Job 5 completed successfull 
+[DEBUG] 2018-04-30 09:47:02 2018-04-30 09:47:02 Rules 10.2% rules finished (5/49). 1 rules executing (in 1 jobs). 3 rules ready to execute. 40 rules awaiting dependencie 
+[DEBUG] 2018-04-30 09:47:02 2018-04-30 09:47:02 Job 7 executing 1 rules [Rule: /Users/eculbertson/Downloads/time_machine/time_machine.tmc/0200-tiles/movie_maker - 2.data/tiles].. 
+[DEBUG] 2018-04-30 09:47:02 2018-04-30 09:47:02 Job 7 executing /Applications/Time Machine Creator.app/Contents/tilestacktool/tilestacktool --tilesize 512 --image2tiles /Users/eculbertson/Downloads/time_machine/time_machine.tmc/0200-tiles/movie_maker - 2.data/tiles kro /Users/eculbertson/Desktop/movie_change/with-rectangle/try_again/movie_maker - 2.jp 
+[DEBUG] 2018-04-30 09:47:02 Read 0 tiles from 0 tilestacks 
+[DEBUG] 2018-04-30 09:47:02 0 images rendere 
+[DEBUG] 2018-04-30 09:47:02 User time 0.114202, System time 0.02778 
+[DEBUG] 2018-04-30 09:47:02 2018-04-30 09:47:02 Job 6 completed successfull 
+[DEBUG] 2018-04-30 09:47:02 2018-04-30 09:47:02 Rules 12.2% rules finished (6/49). 1 rules executing (in 1 jobs). 2 rules ready to execute. 40 rules awaiting dependencie 
+[DEBUG] 2018-04-30 09:47:02 2018-04-30 09:47:02 Job 8 executing 1 rules [Rule: /Users/eculbertson/Downloads/time_machine/time_machine.tmc/0200-tiles/movie_maker - 9.data/tiles].. 
+[DEBUG] 2018-04-30 09:47:02 2018-04-30 09:47:02 Job 8 executing /Applications/Time Machine Creator.app/Contents/tilestacktool/tilestacktool --tilesize 512 --image2tiles /Users/eculbertson/Downloads/time_machine/time_machine.tmc/0200-tiles/movie_maker - 9.data/tiles kro /Users/eculbertson/Desktop/movie_change/with-rectangle/try_again/movie_maker - 9.jp 
+[DEBUG] 2018-04-30 09:47:03 Read 0 tiles from 0 tilestacks 
+[DEBUG] 2018-04-30 09:47:03 0 images rendere 
+[DEBUG] 2018-04-30 09:47:03 User time 0.097648, System time 0.0208 
+[DEBUG] 2018-04-30 09:47:03 2018-04-30 09:47:03 Job 8 completed successfull 
+[DEBUG] 2018-04-30 09:47:03 2018-04-30 09:47:03 Rules 14.3% rules finished (7/49). 1 rules executing (in 1 jobs). 1 rules ready to execute. 40 rules awaiting dependencie 
+[DEBUG] 2018-04-30 09:47:03 2018-04-30 09:47:03 Job 9 executing 1 rules [Rule: /Users/eculbertson/Downloads/time_machine/time_machine.tmc/0200-tiles/movie_maker - 1.data/tiles].. 
+[DEBUG] 2018-04-30 09:47:03 2018-04-30 09:47:03 Job 9 executing /Applications/Time Machine Creator.app/Contents/tilestacktool/tilestacktool --tilesize 512 --image2tiles /Users/eculbertson/Downloads/time_machine/time_machine.tmc/0200-tiles/movie_maker - 1.data/tiles kro /Users/eculbertson/Desktop/movie_change/with-rectangle/try_again/movie_maker - 1.jp 
+[DEBUG] 2018-04-30 09:47:03 Read 0 tiles from 0 tilestacks 
+[DEBUG] 2018-04-30 09:47:03 0 images rendere 
+[DEBUG] 2018-04-30 09:47:03 User time 0.107516, System time 0.02264 
+[DEBUG] 2018-04-30 09:47:03 2018-04-30 09:47:03 Job 7 completed successfull 
+[DEBUG] 2018-04-30 09:47:03 2018-04-30 09:47:03 Rules 16.3% rules finished (8/49). 1 rules executing (in 1 jobs). 0 rules ready to execute. 40 rules awaiting dependencie 
+[DEBUG] 2018-04-30 09:47:03 Read 0 tiles from 0 tilestacks 
+[DEBUG] 2018-04-30 09:47:03 0 images rendere 
+[DEBUG] 2018-04-30 09:47:03 User time 0.095604, System time 0.01822 
+[DEBUG] 2018-04-30 09:47:03 2018-04-30 09:47:03 Job 9 completed successfull 
+[DEBUG] 2018-04-30 09:47:03 2018-04-30 09:47:03 Rules 18.4% rules finished (9/49). 0 rules executing (in 0 jobs). 1 rules ready to execute. 39 rules awaiting dependencie 
+[DEBUG] 2018-04-30 09:47:03 2018-04-30 09:47:03 Job 10 executing 1 rules [Rule: /Users/eculbertson/Downloads/time_machine/time_machine.tmc/0200-tiles/COMPLETE].. 
+[DEBUG] 2018-04-30 09:47:03 2018-04-30 09:47:03 Job 10 executing /Applications/Time Machine Creator.app/Contents/tilestacktool/tilestacktool --createfile /Users/eculbertson/Downloads/time_machine/time_machine.tmc/0200-tiles/COMPLET 
+[DEBUG] 2018-04-30 09:47:03 Read 0 tiles from 0 tilestacks 
+[DEBUG] 2018-04-30 09:47:03 0 images rendere 
+[DEBUG] 2018-04-30 09:47:03 User time 0.002703, System time 0.00371 
+[DEBUG] 2018-04-30 09:47:03 2018-04-30 09:47:03 Job 10 completed successfull 
+[DEBUG] 2018-04-30 09:47:03 2018-04-30 09:47:03 Rules 20.4% rules finished (10/49). 0 rules executing (in 0 jobs). 16 rules ready to execute. 23 rules awaiting dependencie 
+[DEBUG] 2018-04-30 09:47:03 2018-04-30 09:47:03 Job 11 executing 1 rules [Rule: /Users/eculbertson/Downloads/time_machine/time_machine.tmc/0300-tilestacks/r00.ts2].. 
+[DEBUG] 2018-04-30 09:47:03 2018-04-30 09:47:03 Job 12 executing 1 rules [Rule: /Users/eculbertson/Downloads/time_machine/time_machine.tmc/0300-tilestacks/r01.ts2].. 
+[DEBUG] 2018-04-30 09:47:03 2018-04-30 09:47:03 Job 12 executing /Applications/Time Machine Creator.app/Contents/tilestacktool/tilestacktool --create-parent-directories --delete-source-tiles --loadtiles-from-json /Users/eculbertson/Downloads/time_machine/time_machine.tmc/0200-tiles/tiles-54787-1525096022.479389-32388.json --save /Users/eculbertson/Downloads/time_machine/time_machine.tmc/0300-tilestacks/r01.ts 
+[DEBUG] 2018-04-30 09:47:03 2018-04-30 09:47:03 Job 11 executing /Applications/Time Machine Creator.app/Contents/tilestacktool/tilestacktool --create-parent-directories --delete-source-tiles --loadtiles-from-json /Users/eculbertson/Downloads/time_machine/time_machine.tmc/0200-tiles/tiles-54787-1525096022.4785469-48100.json --save /Users/eculbertson/Downloads/time_machine/time_machine.tmc/0300-tilestacks/r00.ts 
+[DEBUG] 2018-04-30 09:47:03 Created /Users/eculbertson/Downloads/time_machine/time_machine.tmc/0300-tilestacks/r01.ts 
+[DEBUG] 2018-04-30 09:47:03 Deleting 9 source tile 
+[DEBUG] 2018-04-30 09:47:03 Read 0 tiles from 0 tilestacks 
+[DEBUG] 2018-04-30 09:47:03 0 images rendere 
+[DEBUG] 2018-04-30 09:47:03 User time 0.309854, System time 0.01745 
+[DEBUG] 2018-04-30 09:47:03 2018-04-30 09:47:03 Job 12 executing rm /Users/eculbertson/Downloads/time_machine/time_machine.tmc/0200-tiles/tiles-54787-1525096022.479389-32388.jso 
+[DEBUG] 2018-04-30 09:47:03 2018-04-30 09:47:03 Job 12 completed successfull 
+[DEBUG] 2018-04-30 09:47:03 2018-04-30 09:47:03 Rules 22.4% rules finished (11/49). 1 rules executing (in 1 jobs). 14 rules ready to execute. 23 rules awaiting dependencie 
+[DEBUG] 2018-04-30 09:47:03 2018-04-30 09:47:03 Job 13 executing 1 rules [Rule: /Users/eculbertson/Downloads/time_machine/time_machine.tmc/0300-tilestacks/r02.ts2].. 
+[DEBUG] 2018-04-30 09:47:03 2018-04-30 09:47:03 Job 13 executing /Applications/Time Machine Creator.app/Contents/tilestacktool/tilestacktool --create-parent-directories --delete-source-tiles --loadtiles-from-json /Users/eculbertson/Downloads/time_machine/time_machine.tmc/0200-tiles/tiles-54787-1525096022.479702-12797.json --save /Users/eculbertson/Downloads/time_machine/time_machine.tmc/0300-tilestacks/r02.ts 
+[DEBUG] 2018-04-30 09:47:03 Created /Users/eculbertson/Downloads/time_machine/time_machine.tmc/0300-tilestacks/r00.ts 
+[DEBUG] 2018-04-30 09:47:03 Deleting 9 source tile 
+[DEBUG] 2018-04-30 09:47:03 Read 0 tiles from 0 tilestacks 
+[DEBUG] 2018-04-30 09:47:03 0 images rendere 
+[DEBUG] 2018-04-30 09:47:03 User time 0.319575, System time 0.0185 
+[DEBUG] 2018-04-30 09:47:03 2018-04-30 09:47:03 Job 11 executing rm /Users/eculbertson/Downloads/time_machine/time_machine.tmc/0200-tiles/tiles-54787-1525096022.4785469-48100.jso 
+[DEBUG] 2018-04-30 09:47:03 2018-04-30 09:47:03 Job 11 completed successfull 
+[DEBUG] 2018-04-30 09:47:03 2018-04-30 09:47:03 Rules 24.5% rules finished (12/49). 1 rules executing (in 1 jobs). 13 rules ready to execute. 23 rules awaiting dependencie 
+[DEBUG] 2018-04-30 09:47:03 2018-04-30 09:47:03 Job 14 executing 1 rules [Rule: /Users/eculbertson/Downloads/time_machine/time_machine.tmc/0300-tilestacks/r03.ts2].. 
+[DEBUG] 2018-04-30 09:47:03 2018-04-30 09:47:03 Job 14 executing /Applications/Time Machine Creator.app/Contents/tilestacktool/tilestacktool --create-parent-directories --delete-source-tiles --loadtiles-from-json /Users/eculbertson/Downloads/time_machine/time_machine.tmc/0200-tiles/tiles-54787-1525096022.4802392-16448.json --save /Users/eculbertson/Downloads/time_machine/time_machine.tmc/0300-tilestacks/r03.ts 
+[DEBUG] 2018-04-30 09:47:03 Created /Users/eculbertson/Downloads/time_machine/time_machine.tmc/0300-tilestacks/r02.ts 
+[DEBUG] 2018-04-30 09:47:03 Deleting 9 source tile 
+[DEBUG] 2018-04-30 09:47:03 Read 0 tiles from 0 tilestacks 
+[DEBUG] 2018-04-30 09:47:03 0 images rendere 
+[DEBUG] 2018-04-30 09:47:03 User time 0.318805, System time 0.01590 
+[DEBUG] 2018-04-30 09:47:03 2018-04-30 09:47:03 Job 13 executing rm /Users/eculbertson/Downloads/time_machine/time_machine.tmc/0200-tiles/tiles-54787-1525096022.479702-12797.jso 
+[DEBUG] 2018-04-30 09:47:03 2018-04-30 09:47:03 Job 13 completed successfull 
+[DEBUG] 2018-04-30 09:47:03 2018-04-30 09:47:03 Rules 26.5% rules finished (13/49). 1 rules executing (in 1 jobs). 12 rules ready to execute. 23 rules awaiting dependencie 
+[DEBUG] 2018-04-30 09:47:03 2018-04-30 09:47:03 Job 15 executing 1 rules [Rule: /Users/eculbertson/Downloads/time_machine/time_machine.tmc/0300-tilestacks/r10.ts2].. 
+[DEBUG] 2018-04-30 09:47:03 2018-04-30 09:47:03 Job 15 executing /Applications/Time Machine Creator.app/Contents/tilestacktool/tilestacktool --create-parent-directories --delete-source-tiles --loadtiles-from-json /Users/eculbertson/Downloads/time_machine/time_machine.tmc/0200-tiles/tiles-54787-1525096022.4808471-84691.json --save /Users/eculbertson/Downloads/time_machine/time_machine.tmc/0300-tilestacks/r10.ts 
+[DEBUG] 2018-04-30 09:47:03 Created /Users/eculbertson/Downloads/time_machine/time_machine.tmc/0300-tilestacks/r03.ts 
+[DEBUG] 2018-04-30 09:47:03 Deleting 9 source tile 
+[DEBUG] 2018-04-30 09:47:03 Read 0 tiles from 0 tilestacks 
+[DEBUG] 2018-04-30 09:47:03 0 images rendere 
+[DEBUG] 2018-04-30 09:47:03 User time 0.315474, System time 0.01632 
+[DEBUG] 2018-04-30 09:47:03 2018-04-30 09:47:03 Job 14 executing rm /Users/eculbertson/Downloads/time_machine/time_machine.tmc/0200-tiles/tiles-54787-1525096022.4802392-16448.jso 
+[DEBUG] 2018-04-30 09:47:03 2018-04-30 09:47:03 Job 14 completed successfull 
+[DEBUG] 2018-04-30 09:47:03 2018-04-30 09:47:03 Rules 28.6% rules finished (14/49). 1 rules executing (in 1 jobs). 12 rules ready to execute. 22 rules awaiting dependencie 
+[DEBUG] 2018-04-30 09:47:03 2018-04-30 09:47:03 Job 16 executing 1 rules [Rule: /Users/eculbertson/Downloads/time_machine/time_machine.tmc/0300-tilestacks/r11.ts2].. 
+[DEBUG] 2018-04-30 09:47:03 2018-04-30 09:47:03 Job 16 executing /Applications/Time Machine Creator.app/Contents/tilestacktool/tilestacktool --create-parent-directories --delete-source-tiles --loadtiles-from-json /Users/eculbertson/Downloads/time_machine/time_machine.tmc/0200-tiles/tiles-54787-1525096022.481211-37442.json --save /Users/eculbertson/Downloads/time_machine/time_machine.tmc/0300-tilestacks/r11.ts 
+[DEBUG] 2018-04-30 09:47:04 Created /Users/eculbertson/Downloads/time_machine/time_machine.tmc/0300-tilestacks/r11.ts 
+[DEBUG] 2018-04-30 09:47:04 Deleting 9 source tile 
+[DEBUG] 2018-04-30 09:47:04 Read 0 tiles from 0 tilestacks 
+[DEBUG] 2018-04-30 09:47:04 0 images rendere 
+[DEBUG] 2018-04-30 09:47:04 User time 0.183412, System time 0.01311 
+[DEBUG] 2018-04-30 09:47:04 2018-04-30 09:47:04 Job 16 executing rm /Users/eculbertson/Downloads/time_machine/time_machine.tmc/0200-tiles/tiles-54787-1525096022.481211-37442.jso 
+[DEBUG] 2018-04-30 09:47:04 2018-04-30 09:47:04 Job 16 completed successfull 
+[DEBUG] 2018-04-30 09:47:04 2018-04-30 09:47:04 Rules 30.6% rules finished (15/49). 1 rules executing (in 1 jobs). 11 rules ready to execute. 22 rules awaiting dependencie 
+[DEBUG] 2018-04-30 09:47:04 2018-04-30 09:47:04 Job 17 executing 1 rules [Rule: /Users/eculbertson/Downloads/time_machine/time_machine.tmc/0300-tilestacks/r12.ts2].. 
+[DEBUG] 2018-04-30 09:47:04 2018-04-30 09:47:04 Job 17 executing /Applications/Time Machine Creator.app/Contents/tilestacktool/tilestacktool --create-parent-directories --delete-source-tiles --loadtiles-from-json /Users/eculbertson/Downloads/time_machine/time_machine.tmc/0200-tiles/tiles-54787-1525096022.481546-47337.json --save /Users/eculbertson/Downloads/time_machine/time_machine.tmc/0300-tilestacks/r12.ts 
+[DEBUG] 2018-04-30 09:47:04 Created /Users/eculbertson/Downloads/time_machine/time_machine.tmc/0300-tilestacks/r10.ts 
+[DEBUG] 2018-04-30 09:47:04 Deleting 9 source tile 
+[DEBUG] 2018-04-30 09:47:04 Read 0 tiles from 0 tilestacks 
+[DEBUG] 2018-04-30 09:47:04 0 images rendere 
+[DEBUG] 2018-04-30 09:47:04 User time 0.308461, System time 0.01609 
+[DEBUG] 2018-04-30 09:47:04 2018-04-30 09:47:04 Job 15 executing rm /Users/eculbertson/Downloads/time_machine/time_machine.tmc/0200-tiles/tiles-54787-1525096022.4808471-84691.jso 
+[DEBUG] 2018-04-30 09:47:04 2018-04-30 09:47:04 Job 15 completed successfull 
+[DEBUG] 2018-04-30 09:47:04 2018-04-30 09:47:04 Rules 32.7% rules finished (16/49). 1 rules executing (in 1 jobs). 10 rules ready to execute. 22 rules awaiting dependencie 
+[DEBUG] 2018-04-30 09:47:04 2018-04-30 09:47:04 Job 18 executing 1 rules [Rule: /Users/eculbertson/Downloads/time_machine/time_machine.tmc/0300-tilestacks/r13.ts2].. 
+[DEBUG] 2018-04-30 09:47:04 2018-04-30 09:47:04 Job 18 executing /Applications/Time Machine Creator.app/Contents/tilestacktool/tilestacktool --create-parent-directories --delete-source-tiles --loadtiles-from-json /Users/eculbertson/Downloads/time_machine/time_machine.tmc/0200-tiles/tiles-54787-1525096022.4819021-56698.json --save /Users/eculbertson/Downloads/time_machine/time_machine.tmc/0300-tilestacks/r13.ts 
+[DEBUG] 2018-04-30 09:47:04 Created /Users/eculbertson/Downloads/time_machine/time_machine.tmc/0300-tilestacks/r13.ts 
+[DEBUG] 2018-04-30 09:47:04 Deleting 9 source tile 
+[DEBUG] 2018-04-30 09:47:04 Read 0 tiles from 0 tilestacks 
+[DEBUG] 2018-04-30 09:47:04 0 images rendere 
+[DEBUG] 2018-04-30 09:47:04 User time 0.195865, System time 0.01293 
+[DEBUG] 2018-04-30 09:47:04 2018-04-30 09:47:04 Job 18 executing rm /Users/eculbertson/Downloads/time_machine/time_machine.tmc/0200-tiles/tiles-54787-1525096022.4819021-56698.jso 
+[DEBUG] 2018-04-30 09:47:04 2018-04-30 09:47:04 Job 18 completed successfull 
+[DEBUG] 2018-04-30 09:47:04 2018-04-30 09:47:04 Rules 34.7% rules finished (17/49). 1 rules executing (in 1 jobs). 9 rules ready to execute. 22 rules awaiting dependencie 
+[DEBUG] 2018-04-30 09:47:04 2018-04-30 09:47:04 Job 19 executing 1 rules [Rule: /Users/eculbertson/Downloads/time_machine/time_machine.tmc/0300-tilestacks/r20.ts2].. 
+[DEBUG] 2018-04-30 09:47:04 2018-04-30 09:47:04 Job 19 executing /Applications/Time Machine Creator.app/Contents/tilestacktool/tilestacktool --create-parent-directories --delete-source-tiles --loadtiles-from-json /Users/eculbertson/Downloads/time_machine/time_machine.tmc/0200-tiles/tiles-54787-1525096022.4822469-15125.json --save /Users/eculbertson/Downloads/time_machine/time_machine.tmc/0300-tilestacks/r20.ts 
+[DEBUG] 2018-04-30 09:47:04 Created /Users/eculbertson/Downloads/time_machine/time_machine.tmc/0300-tilestacks/r12.ts 
+[DEBUG] 2018-04-30 09:47:04 Deleting 9 source tile 
+[DEBUG] 2018-04-30 09:47:04 Read 0 tiles from 0 tilestacks 
+[DEBUG] 2018-04-30 09:47:04 0 images rendere 
+[DEBUG] 2018-04-30 09:47:04 User time 0.328578, System time 0.01816 
+[DEBUG] 2018-04-30 09:47:04 2018-04-30 09:47:04 Job 17 executing rm /Users/eculbertson/Downloads/time_machine/time_machine.tmc/0200-tiles/tiles-54787-1525096022.481546-47337.jso 
+[DEBUG] 2018-04-30 09:47:04 2018-04-30 09:47:04 Job 17 completed successfull 
+[DEBUG] 2018-04-30 09:47:04 2018-04-30 09:47:04 Rules 36.7% rules finished (18/49). 1 rules executing (in 1 jobs). 9 rules ready to execute. 21 rules awaiting dependencie 
+[DEBUG] 2018-04-30 09:47:04 2018-04-30 09:47:04 Job 20 executing 1 rules [Rule: /Users/eculbertson/Downloads/time_machine/time_machine.tmc/0300-tilestacks/r21.ts2].. 
+[DEBUG] 2018-04-30 09:47:04 2018-04-30 09:47:04 Job 20 executing /Applications/Time Machine Creator.app/Contents/tilestacktool/tilestacktool --create-parent-directories --delete-source-tiles --loadtiles-from-json /Users/eculbertson/Downloads/time_machine/time_machine.tmc/0200-tiles/tiles-54787-1525096022.482549-70247.json --save /Users/eculbertson/Downloads/time_machine/time_machine.tmc/0300-tilestacks/r21.ts 
+[DEBUG] 2018-04-30 09:47:04 Created /Users/eculbertson/Downloads/time_machine/time_machine.tmc/0300-tilestacks/r20.ts 
+[DEBUG] 2018-04-30 09:47:04 Deleting 9 source tile 
+[DEBUG] 2018-04-30 09:47:04 Read 0 tiles from 0 tilestacks 
+[DEBUG] 2018-04-30 09:47:04 0 images rendere 
+[DEBUG] 2018-04-30 09:47:04 User time 0.315093, System time 0.01580 
+[DEBUG] 2018-04-30 09:47:04 2018-04-30 09:47:04 Job 19 executing rm /Users/eculbertson/Downloads/time_machine/time_machine.tmc/0200-tiles/tiles-54787-1525096022.4822469-15125.jso 
+[DEBUG] 2018-04-30 09:47:04 2018-04-30 09:47:04 Job 19 completed successfull 
+[DEBUG] 2018-04-30 09:47:04 2018-04-30 09:47:04 Rules 38.8% rules finished (19/49). 1 rules executing (in 1 jobs). 8 rules ready to execute. 21 rules awaiting dependencie 
+[DEBUG] 2018-04-30 09:47:04 2018-04-30 09:47:04 Job 21 executing 1 rules [Rule: /Users/eculbertson/Downloads/time_machine/time_machine.tmc/0300-tilestacks/r22.ts2].. 
+[DEBUG] 2018-04-30 09:47:04 2018-04-30 09:47:04 Job 21 executing /Applications/Time Machine Creator.app/Contents/tilestacktool/tilestacktool --create-parent-directories --delete-source-tiles --loadtiles-from-json /Users/eculbertson/Downloads/time_machine/time_machine.tmc/0200-tiles/tiles-54787-1525096022.4828758-19241.json --save /Users/eculbertson/Downloads/time_machine/time_machine.tmc/0300-tilestacks/r22.ts 
+[DEBUG] 2018-04-30 09:47:04 Created /Users/eculbertson/Downloads/time_machine/time_machine.tmc/0300-tilestacks/r21.ts 
+[DEBUG] 2018-04-30 09:47:04 Deleting 9 source tile 
+[DEBUG] 2018-04-30 09:47:04 Read 0 tiles from 0 tilestacks 
+[DEBUG] 2018-04-30 09:47:04 0 images rendere 
+[DEBUG] 2018-04-30 09:47:04 User time 0.319286, System time 0.01571 
+[DEBUG] 2018-04-30 09:47:04 2018-04-30 09:47:04 Job 20 executing rm /Users/eculbertson/Downloads/time_machine/time_machine.tmc/0200-tiles/tiles-54787-1525096022.482549-70247.jso 
+[DEBUG] 2018-04-30 09:47:04 2018-04-30 09:47:04 Job 20 completed successfull 
+[DEBUG] 2018-04-30 09:47:04 2018-04-30 09:47:04 Rules 40.8% rules finished (20/49). 1 rules executing (in 1 jobs). 7 rules ready to execute. 21 rules awaiting dependencie 
+[DEBUG] 2018-04-30 09:47:04 2018-04-30 09:47:04 Job 22 executing 1 rules [Rule: /Users/eculbertson/Downloads/time_machine/time_machine.tmc/0300-tilestacks/r23.ts2].. 
+[DEBUG] 2018-04-30 09:47:04 2018-04-30 09:47:04 Job 22 executing /Applications/Time Machine Creator.app/Contents/tilestacktool/tilestacktool --create-parent-directories --delete-source-tiles --loadtiles-from-json /Users/eculbertson/Downloads/time_machine/time_machine.tmc/0200-tiles/tiles-54787-1525096022.4831822-74739.json --save /Users/eculbertson/Downloads/time_machine/time_machine.tmc/0300-tilestacks/r23.ts 
+[DEBUG] 2018-04-30 09:47:04 Created /Users/eculbertson/Downloads/time_machine/time_machine.tmc/0300-tilestacks/r22.ts 
+[DEBUG] 2018-04-30 09:47:04 Deleting 9 source tile 
+[DEBUG] 2018-04-30 09:47:04 Read 0 tiles from 0 tilestacks 
+[DEBUG] 2018-04-30 09:47:04 0 images rendere 
+[DEBUG] 2018-04-30 09:47:04 User time 0.250423, System time 0.01427 
+[DEBUG] 2018-04-30 09:47:04 2018-04-30 09:47:04 Job 21 executing rm /Users/eculbertson/Downloads/time_machine/time_machine.tmc/0200-tiles/tiles-54787-1525096022.4828758-19241.jso 
+[DEBUG] 2018-04-30 09:47:04 2018-04-30 09:47:04 Job 21 completed successfull 
+[DEBUG] 2018-04-30 09:47:04 2018-04-30 09:47:04 Rules 42.9% rules finished (21/49). 1 rules executing (in 1 jobs). 6 rules ready to execute. 21 rules awaiting dependencie 
+[DEBUG] 2018-04-30 09:47:04 2018-04-30 09:47:04 Job 23 executing 1 rules [Rule: /Users/eculbertson/Downloads/time_machine/time_machine.tmc/0300-tilestacks/r30.ts2].. 
+[DEBUG] 2018-04-30 09:47:04 2018-04-30 09:47:04 Job 23 executing /Applications/Time Machine Creator.app/Contents/tilestacktool/tilestacktool --create-parent-directories --delete-source-tiles --loadtiles-from-json /Users/eculbertson/Downloads/time_machine/time_machine.tmc/0200-tiles/tiles-54787-1525096022.4835289-14803.json --save /Users/eculbertson/Downloads/time_machine/time_machine.tmc/0300-tilestacks/r30.ts 
+[DEBUG] 2018-04-30 09:47:05 Created /Users/eculbertson/Downloads/time_machine/time_machine.tmc/0300-tilestacks/r23.ts 
+[DEBUG] 2018-04-30 09:47:05 Deleting 9 source tile 
+[DEBUG] 2018-04-30 09:47:05 Read 0 tiles from 0 tilestacks 
+[DEBUG] 2018-04-30 09:47:05 0 images rendere 
+[DEBUG] 2018-04-30 09:47:05 User time 0.259818, System time 0.01345 
+[DEBUG] 2018-04-30 09:47:05 2018-04-30 09:47:05 Job 22 executing rm /Users/eculbertson/Downloads/time_machine/time_machine.tmc/0200-tiles/tiles-54787-1525096022.4831822-74739.jso 
+[DEBUG] 2018-04-30 09:47:05 2018-04-30 09:47:05 Job 22 completed successfull 
+[DEBUG] 2018-04-30 09:47:05 2018-04-30 09:47:05 Rules 44.9% rules finished (22/49). 1 rules executing (in 1 jobs). 6 rules ready to execute. 20 rules awaiting dependencie 
+[DEBUG] 2018-04-30 09:47:05 2018-04-30 09:47:05 Job 24 executing 1 rules [Rule: /Users/eculbertson/Downloads/time_machine/time_machine.tmc/0300-tilestacks/r31.ts2].. 
+[DEBUG] 2018-04-30 09:47:05 2018-04-30 09:47:05 Job 24 executing /Applications/Time Machine Creator.app/Contents/tilestacktool/tilestacktool --create-parent-directories --delete-source-tiles --loadtiles-from-json /Users/eculbertson/Downloads/time_machine/time_machine.tmc/0200-tiles/tiles-54787-1525096022.483853-69902.json --save /Users/eculbertson/Downloads/time_machine/time_machine.tmc/0300-tilestacks/r31.ts 
+[DEBUG] 2018-04-30 09:47:05 Created /Users/eculbertson/Downloads/time_machine/time_machine.tmc/0300-tilestacks/r31.ts 
+[DEBUG] 2018-04-30 09:47:05 Deleting 9 source tile 
+[DEBUG] 2018-04-30 09:47:05 Read 0 tiles from 0 tilestacks 
+[DEBUG] 2018-04-30 09:47:05 0 images rendere 
+[DEBUG] 2018-04-30 09:47:05 User time 0.186724, System time 0.01284 
+[DEBUG] 2018-04-30 09:47:05 2018-04-30 09:47:05 Job 24 executing rm /Users/eculbertson/Downloads/time_machine/time_machine.tmc/0200-tiles/tiles-54787-1525096022.483853-69902.jso 
+[DEBUG] 2018-04-30 09:47:05 2018-04-30 09:47:05 Job 24 completed successfull 
+[DEBUG] 2018-04-30 09:47:05 2018-04-30 09:47:05 Rules 46.9% rules finished (23/49). 1 rules executing (in 1 jobs). 5 rules ready to execute. 20 rules awaiting dependencie 
+[DEBUG] 2018-04-30 09:47:05 2018-04-30 09:47:05 Job 25 executing 1 rules [Rule: /Users/eculbertson/Downloads/time_machine/time_machine.tmc/0300-tilestacks/r32.ts2].. 
+[DEBUG] 2018-04-30 09:47:05 2018-04-30 09:47:05 Job 25 executing /Applications/Time Machine Creator.app/Contents/tilestacktool/tilestacktool --create-parent-directories --delete-source-tiles --loadtiles-from-json /Users/eculbertson/Downloads/time_machine/time_machine.tmc/0200-tiles/tiles-54787-1525096022.484153-31229.json --save /Users/eculbertson/Downloads/time_machine/time_machine.tmc/0300-tilestacks/r32.ts 
+[DEBUG] 2018-04-30 09:47:05 Created /Users/eculbertson/Downloads/time_machine/time_machine.tmc/0300-tilestacks/r30.ts 
+[DEBUG] 2018-04-30 09:47:05 Deleting 9 source tile 
+[DEBUG] 2018-04-30 09:47:05 Read 0 tiles from 0 tilestacks 
+[DEBUG] 2018-04-30 09:47:05 0 images rendere 
+[DEBUG] 2018-04-30 09:47:05 User time 0.313904, System time 0.01643 
+[DEBUG] 2018-04-30 09:47:05 2018-04-30 09:47:05 Job 23 executing rm /Users/eculbertson/Downloads/time_machine/time_machine.tmc/0200-tiles/tiles-54787-1525096022.4835289-14803.jso 
+[DEBUG] 2018-04-30 09:47:05 2018-04-30 09:47:05 Job 23 completed successfull 
+[DEBUG] 2018-04-30 09:47:05 2018-04-30 09:47:05 Rules 49.0% rules finished (24/49). 1 rules executing (in 1 jobs). 4 rules ready to execute. 20 rules awaiting dependencie 
+[DEBUG] 2018-04-30 09:47:05 2018-04-30 09:47:05 Job 26 executing 1 rules [Rule: /Users/eculbertson/Downloads/time_machine/time_machine.tmc/0300-tilestacks/r33.ts2].. 
+[DEBUG] 2018-04-30 09:47:05 2018-04-30 09:47:05 Job 26 executing /Applications/Time Machine Creator.app/Contents/tilestacktool/tilestacktool --create-parent-directories --delete-source-tiles --loadtiles-from-json /Users/eculbertson/Downloads/time_machine/time_machine.tmc/0200-tiles/tiles-54787-1525096022.48445-91175.json --save /Users/eculbertson/Downloads/time_machine/time_machine.tmc/0300-tilestacks/r33.ts 
+[DEBUG] 2018-04-30 09:47:05 Created /Users/eculbertson/Downloads/time_machine/time_machine.tmc/0300-tilestacks/r33.ts 
+[DEBUG] 2018-04-30 09:47:05 Deleting 9 source tile 
+[DEBUG] 2018-04-30 09:47:05 Read 0 tiles from 0 tilestacks 
+[DEBUG] 2018-04-30 09:47:05 0 images rendere 
+[DEBUG] 2018-04-30 09:47:05 User time 0.160344, System time 0.0126 
+[DEBUG] 2018-04-30 09:47:05 2018-04-30 09:47:05 Job 26 executing rm /Users/eculbertson/Downloads/time_machine/time_machine.tmc/0200-tiles/tiles-54787-1525096022.48445-91175.jso 
+[DEBUG] 2018-04-30 09:47:05 2018-04-30 09:47:05 Job 26 completed successfull 
+[DEBUG] 2018-04-30 09:47:05 2018-04-30 09:47:05 Rules 51.0% rules finished (25/49). 1 rules executing (in 1 jobs). 3 rules ready to execute. 20 rules awaiting dependencie 
+[DEBUG] 2018-04-30 09:47:05 2018-04-30 09:47:05 Job 27 executing 1 rules [Rule: /Users/eculbertson/Downloads/time_machine/time_machine.tmc/0300-tilestacks/r0.ts2].. 
+[DEBUG] 2018-04-30 09:47:05 2018-04-30 09:47:05 Job 27 executing /Applications/Time Machine Creator.app/Contents/tilestacktool/tilestacktool --create-parent-directories --path2stack-downsize 512 512 {"frames":{"start":0,"end":8},"bounds":{"xmin":0,"ymin":0,"width":1024,"height":1024}} /Users/eculbertson/Downloads/time_machine/time_machine.tmc/0300-tilestacks --save /Users/eculbertson/Downloads/time_machine/time_machine.tmc/0300-tilestacks/r0.ts 
+[DEBUG] 2018-04-30 09:47:05 stackset_path is /Users/eculbertson/Downloads/time_machine/time_machine.tmc/0300-tilestack 
+[DEBUG] 2018-04-30 09:47:05 Created /Users/eculbertson/Downloads/time_machine/time_machine.tmc/0300-tilestacks/r32.ts 
+[DEBUG] 2018-04-30 09:47:05 Deleting 9 source tile 
+[DEBUG] 2018-04-30 09:47:05 Read 0 tiles from 0 tilestacks 
+[DEBUG] 2018-04-30 09:47:05 0 images rendere 
+[DEBUG] 2018-04-30 09:47:05 User time 0.263629, System time 0.01431 
+[DEBUG] 2018-04-30 09:47:05 2018-04-30 09:47:05 Job 25 executing rm /Users/eculbertson/Downloads/time_machine/time_machine.tmc/0200-tiles/tiles-54787-1525096022.484153-31229.jso 
+[DEBUG] 2018-04-30 09:47:05 2018-04-30 09:47:05 Job 25 completed successfull 
+[DEBUG] 2018-04-30 09:47:05 2018-04-30 09:47:05 Rules 53.1% rules finished (26/49). 1 rules executing (in 1 jobs). 3 rules ready to execute. 19 rules awaiting dependencie 
+[DEBUG] 2018-04-30 09:47:05 2018-04-30 09:47:05 Job 28 executing 1 rules [Rule: /Users/eculbertson/Downloads/time_machine/time_machine.tmc/0300-tilestacks/r1.ts2].. 
+[DEBUG] 2018-04-30 09:47:05 2018-04-30 09:47:05 Job 28 executing /Applications/Time Machine Creator.app/Contents/tilestacktool/tilestacktool --create-parent-directories --path2stack-downsize 512 512 {"frames":{"start":0,"end":8},"bounds":{"xmin":1024,"ymin":0,"width":1024,"height":1024}} /Users/eculbertson/Downloads/time_machine/time_machine.tmc/0300-tilestacks --save /Users/eculbertson/Downloads/time_machine/time_machine.tmc/0300-tilestacks/r1.ts 
+[DEBUG] 2018-04-30 09:47:05 stackset_path is /Users/eculbertson/Downloads/time_machine/time_machine.tmc/0300-tilestack 
+[DEBUG] 2018-04-30 09:47:06 Created /Users/eculbertson/Downloads/time_machine/time_machine.tmc/0300-tilestacks/r1.ts 
+[DEBUG] 2018-04-30 09:47:06 Read 36 tiles from 5 tilestacks.  7.2 tiles per tilestack.  100% tiles compressed 
+[DEBUG] 2018-04-30 09:47:06 9 images rendered (0% fast 
+[DEBUG] 2018-04-30 09:47:06 User time 0.788749, System time 0.02834 
+[DEBUG] 2018-04-30 09:47:06 2018-04-30 09:47:06 Job 28 completed successfull 
+[DEBUG] 2018-04-30 09:47:06 2018-04-30 09:47:06 Rules 55.1% rules finished (27/49). 1 rules executing (in 1 jobs). 2 rules ready to execute. 19 rules awaiting dependencie 
+[DEBUG] 2018-04-30 09:47:06 2018-04-30 09:47:06 Job 29 executing 1 rules [Rule: /Users/eculbertson/Downloads/time_machine/time_machine.tmc/0300-tilestacks/r2.ts2].. 
+[DEBUG] 2018-04-30 09:47:06 2018-04-30 09:47:06 Job 29 executing /Applications/Time Machine Creator.app/Contents/tilestacktool/tilestacktool --create-parent-directories --path2stack-downsize 512 512 {"frames":{"start":0,"end":8},"bounds":{"xmin":0,"ymin":1024,"width":1024,"height":1024}} /Users/eculbertson/Downloads/time_machine/time_machine.tmc/0300-tilestacks --save /Users/eculbertson/Downloads/time_machine/time_machine.tmc/0300-tilestacks/r2.ts 
+[DEBUG] 2018-04-30 09:47:06 stackset_path is /Users/eculbertson/Downloads/time_machine/time_machine.tmc/0300-tilestack 
+[DEBUG] 2018-04-30 09:47:06 Created /Users/eculbertson/Downloads/time_machine/time_machine.tmc/0300-tilestacks/r0.ts 
+[DEBUG] 2018-04-30 09:47:06 Read 36 tiles from 4 tilestacks.  9.0 tiles per tilestack.  100% tiles compressed 
+[DEBUG] 2018-04-30 09:47:06 9 images rendered (0% fast 
+[DEBUG] 2018-04-30 09:47:06 User time 0.875696, System time 0.03078 
+[DEBUG] 2018-04-30 09:47:06 2018-04-30 09:47:06 Job 27 completed successfull 
+[DEBUG] 2018-04-30 09:47:06 2018-04-30 09:47:06 Rules 57.1% rules finished (28/49). 1 rules executing (in 1 jobs). 1 rules ready to execute. 19 rules awaiting dependencie 
+[DEBUG] 2018-04-30 09:47:06 2018-04-30 09:47:06 Job 30 executing 1 rules [Rule: /Users/eculbertson/Downloads/time_machine/time_machine.tmc/0300-tilestacks/r3.ts2].. 
+[DEBUG] 2018-04-30 09:47:06 2018-04-30 09:47:06 Job 30 executing /Applications/Time Machine Creator.app/Contents/tilestacktool/tilestacktool --create-parent-directories --path2stack-downsize 512 512 {"frames":{"start":0,"end":8},"bounds":{"xmin":1024,"ymin":1024,"width":1024,"height":1024}} /Users/eculbertson/Downloads/time_machine/time_machine.tmc/0300-tilestacks --save /Users/eculbertson/Downloads/time_machine/time_machine.tmc/0300-tilestacks/r3.ts 
+[DEBUG] 2018-04-30 09:47:06 stackset_path is /Users/eculbertson/Downloads/time_machine/time_machine.tmc/0300-tilestack 
+[DEBUG] 2018-04-30 09:47:07 Created /Users/eculbertson/Downloads/time_machine/time_machine.tmc/0300-tilestacks/r3.ts 
+[DEBUG] 2018-04-30 09:47:07 Read 36 tiles from 5 tilestacks.  7.2 tiles per tilestack.  100% tiles compressed 
+[DEBUG] 2018-04-30 09:47:07 9 images rendered (0% fast 
+[DEBUG] 2018-04-30 09:47:07 User time 0.752843, System time 0.02836 
+[DEBUG] 2018-04-30 09:47:07 2018-04-30 09:47:07 Job 30 completed successfull 
+[DEBUG] 2018-04-30 09:47:07 2018-04-30 09:47:07 Rules 59.2% rules finished (29/49). 1 rules executing (in 1 jobs). 0 rules ready to execute. 19 rules awaiting dependencie 
+[DEBUG] 2018-04-30 09:47:07 Created /Users/eculbertson/Downloads/time_machine/time_machine.tmc/0300-tilestacks/r2.ts 
+[DEBUG] 2018-04-30 09:47:07 Read 36 tiles from 5 tilestacks.  7.2 tiles per tilestack.  100% tiles compressed 
+[DEBUG] 2018-04-30 09:47:07 9 images rendered (0% fast 
+[DEBUG] 2018-04-30 09:47:07 User time 0.825091, System time 0.03406 
+[DEBUG] 2018-04-30 09:47:07 2018-04-30 09:47:07 Job 29 completed successfull 
+[DEBUG] 2018-04-30 09:47:07 2018-04-30 09:47:07 Rules 61.2% rules finished (30/49). 0 rules executing (in 0 jobs). 1 rules ready to execute. 18 rules awaiting dependencie 
+[DEBUG] 2018-04-30 09:47:07 2018-04-30 09:47:07 Job 31 executing 1 rules [Rule: /Users/eculbertson/Downloads/time_machine/time_machine.tmc/0300-tilestacks/r.ts2].. 
+[DEBUG] 2018-04-30 09:47:07 2018-04-30 09:47:07 Job 31 executing /Applications/Time Machine Creator.app/Contents/tilestacktool/tilestacktool --create-parent-directories --path2stack-downsize 512 512 {"frames":{"start":0,"end":8},"bounds":{"xmin":0,"ymin":0,"width":2048,"height":2048}} /Users/eculbertson/Downloads/time_machine/time_machine.tmc/0300-tilestacks --save /Users/eculbertson/Downloads/time_machine/time_machine.tmc/0300-tilestacks/r.ts 
+[DEBUG] 2018-04-30 09:47:07 stackset_path is /Users/eculbertson/Downloads/time_machine/time_machine.tmc/0300-tilestack 
+[DEBUG] 2018-04-30 09:47:08 Created /Users/eculbertson/Downloads/time_machine/time_machine.tmc/0300-tilestacks/r.ts 
+[DEBUG] 2018-04-30 09:47:08 Read 36 tiles from 5 tilestacks.  7.2 tiles per tilestack.  100% tiles compressed 
+[DEBUG] 2018-04-30 09:47:08 9 images rendered (0% fast 
+[DEBUG] 2018-04-30 09:47:08 User time 0.814938, System time 0.02875 
+[DEBUG] 2018-04-30 09:47:08 2018-04-30 09:47:08 Job 31 completed successfull 
+[DEBUG] 2018-04-30 09:47:08 2018-04-30 09:47:08 Rules 63.3% rules finished (31/49). 0 rules executing (in 0 jobs). 1 rules ready to execute. 17 rules awaiting dependencie 
+[DEBUG] 2018-04-30 09:47:08 2018-04-30 09:47:08 Job 32 executing 1 rules [Rule: /Users/eculbertson/Downloads/time_machine/time_machine.tmc/0300-tilestacks/COMPLETE].. 
+[DEBUG] 2018-04-30 09:47:08 2018-04-30 09:47:08 Job 32 executing /Applications/Time Machine Creator.app/Contents/tilestacktool/tilestacktool --createfile /Users/eculbertson/Downloads/time_machine/time_machine.tmc/0300-tilestacks/COMPLET 
+[DEBUG] 2018-04-30 09:47:08 Read 0 tiles from 0 tilestacks 
+[DEBUG] 2018-04-30 09:47:08 0 images rendere 
+[DEBUG] 2018-04-30 09:47:08 User time 0.001674, System time 0.00171 
+[DEBUG] 2018-04-30 09:47:08 2018-04-30 09:47:08 Job 32 completed successfull 
+[DEBUG] 2018-04-30 09:47:08 2018-04-30 09:47:08 Rules 65.3% rules finished (32/49). 0 rules executing (in 0 jobs). 15 rules ready to execute. 2 rules awaiting dependencie 
+[DEBUG] 2018-04-30 09:47:08 2018-04-30 09:47:08 Job 33 executing 1 rules [Rule: /Users/eculbertson/Downloads/time_machine/time_machine.timemachine/crf24-3fps-1708x960/0/0/0.mp4].. 
+[DEBUG] 2018-04-30 09:47:08 2018-04-30 09:47:08 Job 34 executing 1 rules [Rule: /Users/eculbertson/Downloads/time_machine/time_machine.timemachine/crf24-3fps-1708x960/1/0/0.mp4].. 
+[DEBUG] 2018-04-30 09:47:08 2018-04-30 09:47:08 Job 34 executing /Applications/Time Machine Creator.app/Contents/tilestacktool/tilestacktool --create-parent-directories --path2stack 1708 960 {"frames":{"start":0,"end":8},"bounds":{"xmin":0,"ymin":0,"width":3416,"height":1920}} /Users/eculbertson/Downloads/time_machine/time_machine.tmc/0300-tilestacks --blackstack 10 1708 960 3 8 --cat --writevideo /Users/eculbertson/Downloads/time_machine/time_machine.timemachine/crf24-3fps-1708x960/1/0/0.mp4 3.0 24 h.26 
+[DEBUG] 2018-04-30 09:47:08 2018-04-30 09:47:08 Job 33 executing /Applications/Time Machine Creator.app/Contents/tilestacktool/tilestacktool --create-parent-directories --path2stack 1708 960 {"frames":{"start":0,"end":8},"bounds":{"xmin":0,"ymin":0,"width":6832,"height":3840}} /Users/eculbertson/Downloads/time_machine/time_machine.tmc/0300-tilestacks --blackstack 10 1708 960 3 8 --cat --writevideo /Users/eculbertson/Downloads/time_machine/time_machine.timemachine/crf24-3fps-1708x960/0/0/0.mp4 3.0 24 h.26 
+[DEBUG] 2018-04-30 09:47:08 stackset_path is /Users/eculbertson/Downloads/time_machine/time_machine.tmc/0300-tilestack 
+[DEBUG] 2018-04-30 09:47:08 Encoding video to /Users/eculbertson/Downloads/time_machine/time_machine.timemachine/crf24-3fps-1708x960/1/0/0.mp4 (temp /Users/eculbertson/Downloads/time_machine/time_machine.timemachine/crf24-3fps-1708x960/1/0/0_Bobs-MacBook-Pro-2.local_1525096028_54824_0.mp4 
+[DEBUG] 2018-04-30 09:47:08 Found ffmpeg at path /Applications/Time Machine Creator.app/Contents/tilestacktool/ffmpeg/osx/ffmpe 
+[DEBUG] 2018-04-30 09:47:08 Cmdline: "/Applications/Time Machine Creator.app/Contents/tilestacktool/ffmpeg/osx/ffmpeg" -threads 8 -loglevel error -benchmark -s 1708x960 -vcodec rawvideo -f rawvideo -pix_fmt rgb24 -r 3 -i pipe:0 -vcodec libx264 -preset slow -pix_fmt yuv420p -crf 24 -g 10 -bf 0 "/Users/eculbertson/Downloads/time_machine/time_machine.timemachine/crf24-3fps-1708x960/1/0/0_Bobs-MacBook-Pro-2.local_1525096028_54824_0_Bobs-MacBook-Pro-2.local_1525096028_54824_1.mp4 
+[DEBUG] 2018-04-30 09:47:08 stackset_path is /Users/eculbertson/Downloads/time_machine/time_machine.tmc/0300-tilestack 
+[DEBUG] 2018-04-30 09:47:08 Encoding video to /Users/eculbertson/Downloads/time_machine/time_machine.timemachine/crf24-3fps-1708x960/0/0/0.mp4 (temp /Users/eculbertson/Downloads/time_machine/time_machine.timemachine/crf24-3fps-1708x960/0/0/0_Bobs-MacBook-Pro-2.local_1525096028_54825_0.mp4 
+[DEBUG] 2018-04-30 09:47:08 Found ffmpeg at path /Applications/Time Machine Creator.app/Contents/tilestacktool/ffmpeg/osx/ffmpe 
+[DEBUG] 2018-04-30 09:47:08 Cmdline: "/Applications/Time Machine Creator.app/Contents/tilestacktool/ffmpeg/osx/ffmpeg" -threads 8 -loglevel error -benchmark -s 1708x960 -vcodec rawvideo -f rawvideo -pix_fmt rgb24 -r 3 -i pipe:0 -vcodec libx264 -preset slow -pix_fmt yuv420p -crf 24 -g 10 -bf 0 "/Users/eculbertson/Downloads/time_machine/time_machine.timemachine/crf24-3fps-1708x960/0/0/0_Bobs-MacBook-Pro-2.local_1525096028_54825_0_Bobs-MacBook-Pro-2.local_1525096028_54825_1.mp4 
+[DEBUG] 2018-04-30 09:47:09 Wrote 19 frames (93461760 bytes) to ffmpe 
+[DEBUG] 2018-04-30 09:47:09 Renaming /Users/eculbertson/Downloads/time_machine/time_machine.timemachine/crf24-3fps-1708x960/0/0/0_Bobs-MacBook-Pro-2.local_1525096028_54825_0.mp4 to /Users/eculbertson/Downloads/time_machine/time_machine.timemachine/crf24-3fps-1708x960/0/0/0.mp 
+[DEBUG] 2018-04-30 09:47:09 Read 9 tiles from 2 tilestacks.  4.5 tiles per tilestack.  100% tiles compressed 
+[DEBUG] 2018-04-30 09:47:09 9 images rendered (100% fast 
+[DEBUG] 2018-04-30 09:47:09 User time 0.786042, System time 0.09476 
+[DEBUG] 2018-04-30 09:47:09 2018-04-30 09:47:09 Job 33 completed successfull 
+[DEBUG] 2018-04-30 09:47:09 2018-04-30 09:47:09 Rules 67.3% rules finished (33/49). 1 rules executing (in 1 jobs). 13 rules ready to execute. 2 rules awaiting dependencie 
+[DEBUG] 2018-04-30 09:47:09 2018-04-30 09:47:09 Job 35 executing 1 rules [Rule: /Users/eculbertson/Downloads/time_machine/time_machine.timemachine/crf24-3fps-1708x960/1/1/0.mp4].. 
+[DEBUG] 2018-04-30 09:47:09 2018-04-30 09:47:09 Job 35 executing /Applications/Time Machine Creator.app/Contents/tilestacktool/tilestacktool --create-parent-directories --path2stack 1708 960 {"frames":{"start":0,"end":8},"bounds":{"xmin":0,"ymin":480,"width":3416,"height":1920}} /Users/eculbertson/Downloads/time_machine/time_machine.tmc/0300-tilestacks --blackstack 10 1708 960 3 8 --cat --writevideo /Users/eculbertson/Downloads/time_machine/time_machine.timemachine/crf24-3fps-1708x960/1/1/0.mp4 3.0 24 h.26 
+[DEBUG] 2018-04-30 09:47:09 stackset_path is /Users/eculbertson/Downloads/time_machine/time_machine.tmc/0300-tilestack 
+[DEBUG] 2018-04-30 09:47:09 Encoding video to /Users/eculbertson/Downloads/time_machine/time_machine.timemachine/crf24-3fps-1708x960/1/1/0.mp4 (temp /Users/eculbertson/Downloads/time_machine/time_machine.timemachine/crf24-3fps-1708x960/1/1/0_Bobs-MacBook-Pro-2.local_1525096029_54829_0.mp4 
+[DEBUG] 2018-04-30 09:47:09 Found ffmpeg at path /Applications/Time Machine Creator.app/Contents/tilestacktool/ffmpeg/osx/ffmpe 
+[DEBUG] 2018-04-30 09:47:09 Cmdline: "/Applications/Time Machine Creator.app/Contents/tilestacktool/ffmpeg/osx/ffmpeg" -threads 8 -loglevel error -benchmark -s 1708x960 -vcodec rawvideo -f rawvideo -pix_fmt rgb24 -r 3 -i pipe:0 -vcodec libx264 -preset slow -pix_fmt yuv420p -crf 24 -g 10 -bf 0 "/Users/eculbertson/Downloads/time_machine/time_machine.timemachine/crf24-3fps-1708x960/1/1/0_Bobs-MacBook-Pro-2.local_1525096029_54829_0_Bobs-MacBook-Pro-2.local_1525096029_54829_1.mp4 
+[DEBUG] 2018-04-30 09:47:09 Wrote 19 frames (93461760 bytes) to ffmpe 
+[DEBUG] 2018-04-30 09:47:09 Renaming /Users/eculbertson/Downloads/time_machine/time_machine.timemachine/crf24-3fps-1708x960/1/0/0_Bobs-MacBook-Pro-2.local_1525096028_54824_0.mp4 to /Users/eculbertson/Downloads/time_machine/time_machine.timemachine/crf24-3fps-1708x960/1/0/0.mp 
+[DEBUG] 2018-04-30 09:47:09 Read 36 tiles from 5 tilestacks.  7.2 tiles per tilestack.  100% tiles compressed 
+[DEBUG] 2018-04-30 09:47:09 9 images rendered (100% fast 
+[DEBUG] 2018-04-30 09:47:09 User time 0.964771, System time 0.11193 
+[DEBUG] 2018-04-30 09:47:09 2018-04-30 09:47:09 Job 34 completed successfull 
+[DEBUG] 2018-04-30 09:47:09 2018-04-30 09:47:09 Rules 69.4% rules finished (34/49). 1 rules executing (in 1 jobs). 12 rules ready to execute. 2 rules awaiting dependencie 
+[DEBUG] 2018-04-30 09:47:09 2018-04-30 09:47:09 Job 36 executing 1 rules [Rule: /Users/eculbertson/Downloads/time_machine/time_machine.timemachine/crf24-3fps-1708x960/2/0/0.mp4].. 
+[DEBUG] 2018-04-30 09:47:09 2018-04-30 09:47:09 Job 36 executing /Applications/Time Machine Creator.app/Contents/tilestacktool/tilestacktool --create-parent-directories --path2stack 1708 960 {"frames":{"start":0,"end":8},"bounds":{"xmin":0,"ymin":0,"width":1708,"height":960}} /Users/eculbertson/Downloads/time_machine/time_machine.tmc/0300-tilestacks --blackstack 10 1708 960 3 8 --cat --writevideo /Users/eculbertson/Downloads/time_machine/time_machine.timemachine/crf24-3fps-1708x960/2/0/0.mp4 3.0 24 h.26 
+[DEBUG] 2018-04-30 09:47:09 stackset_path is /Users/eculbertson/Downloads/time_machine/time_machine.tmc/0300-tilestack 
+[DEBUG] 2018-04-30 09:47:09 Encoding video to /Users/eculbertson/Downloads/time_machine/time_machine.timemachine/crf24-3fps-1708x960/2/0/0.mp4 (temp /Users/eculbertson/Downloads/time_machine/time_machine.timemachine/crf24-3fps-1708x960/2/0/0_Bobs-MacBook-Pro-2.local_1525096029_54831_0.mp4 
+[DEBUG] 2018-04-30 09:47:09 Found ffmpeg at path /Applications/Time Machine Creator.app/Contents/tilestacktool/ffmpeg/osx/ffmpe 
+[DEBUG] 2018-04-30 09:47:09 Cmdline: "/Applications/Time Machine Creator.app/Contents/tilestacktool/ffmpeg/osx/ffmpeg" -threads 8 -loglevel error -benchmark -s 1708x960 -vcodec rawvideo -f rawvideo -pix_fmt rgb24 -r 3 -i pipe:0 -vcodec libx264 -preset slow -pix_fmt yuv420p -crf 24 -g 10 -bf 0 "/Users/eculbertson/Downloads/time_machine/time_machine.timemachine/crf24-3fps-1708x960/2/0/0_Bobs-MacBook-Pro-2.local_1525096029_54831_0_Bobs-MacBook-Pro-2.local_1525096029_54831_1.mp4 
+[DEBUG] 2018-04-30 09:47:11 Wrote 19 frames (93461760 bytes) to ffmpe 
+[DEBUG] 2018-04-30 09:47:11 Renaming /Users/eculbertson/Downloads/time_machine/time_machine.timemachine/crf24-3fps-1708x960/1/1/0_Bobs-MacBook-Pro-2.local_1525096029_54829_0.mp4 to /Users/eculbertson/Downloads/time_machine/time_machine.timemachine/crf24-3fps-1708x960/1/1/0.mp 
+[DEBUG] 2018-04-30 09:47:11 Read 36 tiles from 5 tilestacks.  7.2 tiles per tilestack.  100% tiles compressed 
+[DEBUG] 2018-04-30 09:47:11 9 images rendered (100% fast 
+[DEBUG] 2018-04-30 09:47:11 User time 0.933919, System time 0.1086 
+[DEBUG] 2018-04-30 09:47:11 2018-04-30 09:47:11 Job 35 completed successfull 
+[DEBUG] 2018-04-30 09:47:11 2018-04-30 09:47:11 Rules 71.4% rules finished (35/49). 1 rules executing (in 1 jobs). 11 rules ready to execute. 2 rules awaiting dependencie 
+[DEBUG] 2018-04-30 09:47:11 2018-04-30 09:47:11 Job 37 executing 1 rules [Rule: /Users/eculbertson/Downloads/time_machine/time_machine.timemachine/crf24-3fps-1708x960/2/0/1.mp4].. 
+[DEBUG] 2018-04-30 09:47:11 2018-04-30 09:47:11 Job 37 executing /Applications/Time Machine Creator.app/Contents/tilestacktool/tilestacktool --create-parent-directories --path2stack 1708 960 {"frames":{"start":0,"end":8},"bounds":{"xmin":428,"ymin":0,"width":1708,"height":960}} /Users/eculbertson/Downloads/time_machine/time_machine.tmc/0300-tilestacks --blackstack 10 1708 960 3 8 --cat --writevideo /Users/eculbertson/Downloads/time_machine/time_machine.timemachine/crf24-3fps-1708x960/2/0/1.mp4 3.0 24 h.26 
+[DEBUG] 2018-04-30 09:47:11 stackset_path is /Users/eculbertson/Downloads/time_machine/time_machine.tmc/0300-tilestack 
+[DEBUG] 2018-04-30 09:47:11 Encoding video to /Users/eculbertson/Downloads/time_machine/time_machine.timemachine/crf24-3fps-1708x960/2/0/1.mp4 (temp /Users/eculbertson/Downloads/time_machine/time_machine.timemachine/crf24-3fps-1708x960/2/0/1_Bobs-MacBook-Pro-2.local_1525096031_54833_0.mp4 
+[DEBUG] 2018-04-30 09:47:11 Found ffmpeg at path /Applications/Time Machine Creator.app/Contents/tilestacktool/ffmpeg/osx/ffmpe 
+[DEBUG] 2018-04-30 09:47:11 Cmdline: "/Applications/Time Machine Creator.app/Contents/tilestacktool/ffmpeg/osx/ffmpeg" -threads 8 -loglevel error -benchmark -s 1708x960 -vcodec rawvideo -f rawvideo -pix_fmt rgb24 -r 3 -i pipe:0 -vcodec libx264 -preset slow -pix_fmt yuv420p -crf 24 -g 10 -bf 0 "/Users/eculbertson/Downloads/time_machine/time_machine.timemachine/crf24-3fps-1708x960/2/0/1_Bobs-MacBook-Pro-2.local_1525096031_54833_0_Bobs-MacBook-Pro-2.local_1525096031_54833_1.mp4 
+[DEBUG] 2018-04-30 09:47:12 Wrote 19 frames (93461760 bytes) to ffmpe 
+[DEBUG] 2018-04-30 09:47:12 Renaming /Users/eculbertson/Downloads/time_machine/time_machine.timemachine/crf24-3fps-1708x960/2/0/0_Bobs-MacBook-Pro-2.local_1525096029_54831_0.mp4 to /Users/eculbertson/Downloads/time_machine/time_machine.timemachine/crf24-3fps-1708x960/2/0/0.mp 
+[DEBUG] 2018-04-30 09:47:12 Read 72 tiles from 8 tilestacks.  9.0 tiles per tilestack.  100% tiles compressed 
+[DEBUG] 2018-04-30 09:47:12 9 images rendered (100% fast 
+[DEBUG] 2018-04-30 09:47:12 User time 1.21324, System time 0.12428 
+[DEBUG] 2018-04-30 09:47:12 2018-04-30 09:47:12 Job 36 completed successfull 
+[DEBUG] 2018-04-30 09:47:12 2018-04-30 09:47:12 Rules 73.5% rules finished (36/49). 1 rules executing (in 1 jobs). 10 rules ready to execute. 2 rules awaiting dependencie 
+[DEBUG] 2018-04-30 09:47:12 2018-04-30 09:47:12 Job 38 executing 1 rules [Rule: /Users/eculbertson/Downloads/time_machine/time_machine.timemachine/crf24-3fps-1708x960/2/1/0.mp4].. 
+[DEBUG] 2018-04-30 09:47:12 2018-04-30 09:47:12 Job 38 executing /Applications/Time Machine Creator.app/Contents/tilestacktool/tilestacktool --create-parent-directories --path2stack 1708 960 {"frames":{"start":0,"end":8},"bounds":{"xmin":0,"ymin":240,"width":1708,"height":960}} /Users/eculbertson/Downloads/time_machine/time_machine.tmc/0300-tilestacks --blackstack 10 1708 960 3 8 --cat --writevideo /Users/eculbertson/Downloads/time_machine/time_machine.timemachine/crf24-3fps-1708x960/2/1/0.mp4 3.0 24 h.26 
+[DEBUG] 2018-04-30 09:47:12 stackset_path is /Users/eculbertson/Downloads/time_machine/time_machine.tmc/0300-tilestack 
+[DEBUG] 2018-04-30 09:47:12 Encoding video to /Users/eculbertson/Downloads/time_machine/time_machine.timemachine/crf24-3fps-1708x960/2/1/0.mp4 (temp /Users/eculbertson/Downloads/time_machine/time_machine.timemachine/crf24-3fps-1708x960/2/1/0_Bobs-MacBook-Pro-2.local_1525096032_54835_0.mp4 
+[DEBUG] 2018-04-30 09:47:12 Found ffmpeg at path /Applications/Time Machine Creator.app/Contents/tilestacktool/ffmpeg/osx/ffmpe 
+[DEBUG] 2018-04-30 09:47:12 Cmdline: "/Applications/Time Machine Creator.app/Contents/tilestacktool/ffmpeg/osx/ffmpeg" -threads 8 -loglevel error -benchmark -s 1708x960 -vcodec rawvideo -f rawvideo -pix_fmt rgb24 -r 3 -i pipe:0 -vcodec libx264 -preset slow -pix_fmt yuv420p -crf 24 -g 10 -bf 0 "/Users/eculbertson/Downloads/time_machine/time_machine.timemachine/crf24-3fps-1708x960/2/1/0_Bobs-MacBook-Pro-2.local_1525096032_54835_0_Bobs-MacBook-Pro-2.local_1525096032_54835_1.mp4 
+[DEBUG] 2018-04-30 09:47:13 Wrote 19 frames (93461760 bytes) to ffmpe 
+[DEBUG] 2018-04-30 09:47:13 Renaming /Users/eculbertson/Downloads/time_machine/time_machine.timemachine/crf24-3fps-1708x960/2/0/1_Bobs-MacBook-Pro-2.local_1525096031_54833_0.mp4 to /Users/eculbertson/Downloads/time_machine/time_machine.timemachine/crf24-3fps-1708x960/2/0/1.mp 
+[DEBUG] 2018-04-30 09:47:13 Read 72 tiles from 8 tilestacks.  9.0 tiles per tilestack.  100% tiles compressed 
+[DEBUG] 2018-04-30 09:47:13 9 images rendered (100% fast 
+[DEBUG] 2018-04-30 09:47:13 User time 1.25298, System time 0.12389 
+[DEBUG] 2018-04-30 09:47:13 2018-04-30 09:47:13 Job 37 completed successfull 
+[DEBUG] 2018-04-30 09:47:13 2018-04-30 09:47:13 Rules 75.5% rules finished (37/49). 1 rules executing (in 1 jobs). 9 rules ready to execute. 2 rules awaiting dependencie 
+[DEBUG] 2018-04-30 09:47:13 2018-04-30 09:47:13 Job 39 executing 1 rules [Rule: /Users/eculbertson/Downloads/time_machine/time_machine.timemachine/crf24-3fps-1708x960/2/1/1.mp4].. 
+[DEBUG] 2018-04-30 09:47:13 2018-04-30 09:47:13 Job 39 executing /Applications/Time Machine Creator.app/Contents/tilestacktool/tilestacktool --create-parent-directories --path2stack 1708 960 {"frames":{"start":0,"end":8},"bounds":{"xmin":428,"ymin":240,"width":1708,"height":960}} /Users/eculbertson/Downloads/time_machine/time_machine.tmc/0300-tilestacks --blackstack 10 1708 960 3 8 --cat --writevideo /Users/eculbertson/Downloads/time_machine/time_machine.timemachine/crf24-3fps-1708x960/2/1/1.mp4 3.0 24 h.26 
+[DEBUG] 2018-04-30 09:47:13 stackset_path is /Users/eculbertson/Downloads/time_machine/time_machine.tmc/0300-tilestack 
+[DEBUG] 2018-04-30 09:47:13 Encoding video to /Users/eculbertson/Downloads/time_machine/time_machine.timemachine/crf24-3fps-1708x960/2/1/1.mp4 (temp /Users/eculbertson/Downloads/time_machine/time_machine.timemachine/crf24-3fps-1708x960/2/1/1_Bobs-MacBook-Pro-2.local_1525096033_54837_0.mp4 
+[DEBUG] 2018-04-30 09:47:13 Found ffmpeg at path /Applications/Time Machine Creator.app/Contents/tilestacktool/ffmpeg/osx/ffmpe 
+[DEBUG] 2018-04-30 09:47:13 Cmdline: "/Applications/Time Machine Creator.app/Contents/tilestacktool/ffmpeg/osx/ffmpeg" -threads 8 -loglevel error -benchmark -s 1708x960 -vcodec rawvideo -f rawvideo -pix_fmt rgb24 -r 3 -i pipe:0 -vcodec libx264 -preset slow -pix_fmt yuv420p -crf 24 -g 10 -bf 0 "/Users/eculbertson/Downloads/time_machine/time_machine.timemachine/crf24-3fps-1708x960/2/1/1_Bobs-MacBook-Pro-2.local_1525096033_54837_0_Bobs-MacBook-Pro-2.local_1525096033_54837_1.mp4 
+[DEBUG] 2018-04-30 09:47:14 Wrote 19 frames (93461760 bytes) to ffmpe 
+[DEBUG] 2018-04-30 09:47:14 Renaming /Users/eculbertson/Downloads/time_machine/time_machine.timemachine/crf24-3fps-1708x960/2/1/0_Bobs-MacBook-Pro-2.local_1525096032_54835_0.mp4 to /Users/eculbertson/Downloads/time_machine/time_machine.timemachine/crf24-3fps-1708x960/2/1/0.mp 
+[DEBUG] 2018-04-30 09:47:14 Read 108 tiles from 12 tilestacks.  9.0 tiles per tilestack.  100% tiles compressed 
+[DEBUG] 2018-04-30 09:47:14 9 images rendered (100% fast 
+[DEBUG] 2018-04-30 09:47:14 User time 1.41933, System time 0.13435 
+[DEBUG] 2018-04-30 09:47:14 2018-04-30 09:47:14 Job 38 completed successfull 
+[DEBUG] 2018-04-30 09:47:14 2018-04-30 09:47:14 Rules 77.6% rules finished (38/49). 1 rules executing (in 1 jobs). 8 rules ready to execute. 2 rules awaiting dependencie 
+[DEBUG] 2018-04-30 09:47:14 2018-04-30 09:47:14 Job 40 executing 1 rules [Rule: /Users/eculbertson/Downloads/time_machine/time_machine.timemachine/crf24-3fps-1708x960/2/2/0.mp4].. 
+[DEBUG] 2018-04-30 09:47:14 2018-04-30 09:47:14 Job 40 executing /Applications/Time Machine Creator.app/Contents/tilestacktool/tilestacktool --create-parent-directories --path2stack 1708 960 {"frames":{"start":0,"end":8},"bounds":{"xmin":0,"ymin":480,"width":1708,"height":960}} /Users/eculbertson/Downloads/time_machine/time_machine.tmc/0300-tilestacks --blackstack 10 1708 960 3 8 --cat --writevideo /Users/eculbertson/Downloads/time_machine/time_machine.timemachine/crf24-3fps-1708x960/2/2/0.mp4 3.0 24 h.26 
+[DEBUG] 2018-04-30 09:47:14 stackset_path is /Users/eculbertson/Downloads/time_machine/time_machine.tmc/0300-tilestack 
+[DEBUG] 2018-04-30 09:47:14 Encoding video to /Users/eculbertson/Downloads/time_machine/time_machine.timemachine/crf24-3fps-1708x960/2/2/0.mp4 (temp /Users/eculbertson/Downloads/time_machine/time_machine.timemachine/crf24-3fps-1708x960/2/2/0_Bobs-MacBook-Pro-2.local_1525096034_54839_0.mp4 
+[DEBUG] 2018-04-30 09:47:14 Found ffmpeg at path /Applications/Time Machine Creator.app/Contents/tilestacktool/ffmpeg/osx/ffmpe 
+[DEBUG] 2018-04-30 09:47:14 Cmdline: "/Applications/Time Machine Creator.app/Contents/tilestacktool/ffmpeg/osx/ffmpeg" -threads 8 -loglevel error -benchmark -s 1708x960 -vcodec rawvideo -f rawvideo -pix_fmt rgb24 -r 3 -i pipe:0 -vcodec libx264 -preset slow -pix_fmt yuv420p -crf 24 -g 10 -bf 0 "/Users/eculbertson/Downloads/time_machine/time_machine.timemachine/crf24-3fps-1708x960/2/2/0_Bobs-MacBook-Pro-2.local_1525096034_54839_0_Bobs-MacBook-Pro-2.local_1525096034_54839_1.mp4 
+[DEBUG] 2018-04-30 09:47:15 Wrote 19 frames (93461760 bytes) to ffmpe 
+[DEBUG] 2018-04-30 09:47:15 Renaming /Users/eculbertson/Downloads/time_machine/time_machine.timemachine/crf24-3fps-1708x960/2/1/1_Bobs-MacBook-Pro-2.local_1525096033_54837_0.mp4 to /Users/eculbertson/Downloads/time_machine/time_machine.timemachine/crf24-3fps-1708x960/2/1/1.mp 
+[DEBUG] 2018-04-30 09:47:15 Read 108 tiles from 12 tilestacks.  9.0 tiles per tilestack.  100% tiles compressed 
+[DEBUG] 2018-04-30 09:47:15 9 images rendered (100% fast 
+[DEBUG] 2018-04-30 09:47:15 User time 1.41775, System time 0.14049 
+[DEBUG] 2018-04-30 09:47:15 2018-04-30 09:47:15 Job 39 completed successfull 
+[DEBUG] 2018-04-30 09:47:15 2018-04-30 09:47:15 Rules 79.6% rules finished (39/49). 1 rules executing (in 1 jobs). 7 rules ready to execute. 2 rules awaiting dependencie 
+[DEBUG] 2018-04-30 09:47:15 2018-04-30 09:47:15 Job 41 executing 1 rules [Rule: /Users/eculbertson/Downloads/time_machine/time_machine.timemachine/crf24-3fps-1708x960/2/2/1.mp4].. 
+[DEBUG] 2018-04-30 09:47:15 2018-04-30 09:47:15 Job 41 executing /Applications/Time Machine Creator.app/Contents/tilestacktool/tilestacktool --create-parent-directories --path2stack 1708 960 {"frames":{"start":0,"end":8},"bounds":{"xmin":428,"ymin":480,"width":1708,"height":960}} /Users/eculbertson/Downloads/time_machine/time_machine.tmc/0300-tilestacks --blackstack 10 1708 960 3 8 --cat --writevideo /Users/eculbertson/Downloads/time_machine/time_machine.timemachine/crf24-3fps-1708x960/2/2/1.mp4 3.0 24 h.26 
+[DEBUG] 2018-04-30 09:47:15 stackset_path is /Users/eculbertson/Downloads/time_machine/time_machine.tmc/0300-tilestack 
+[DEBUG] 2018-04-30 09:47:15 Encoding video to /Users/eculbertson/Downloads/time_machine/time_machine.timemachine/crf24-3fps-1708x960/2/2/1.mp4 (temp /Users/eculbertson/Downloads/time_machine/time_machine.timemachine/crf24-3fps-1708x960/2/2/1_Bobs-MacBook-Pro-2.local_1525096035_54841_0.mp4 
+[DEBUG] 2018-04-30 09:47:15 Found ffmpeg at path /Applications/Time Machine Creator.app/Contents/tilestacktool/ffmpeg/osx/ffmpe 
+[DEBUG] 2018-04-30 09:47:15 Cmdline: "/Applications/Time Machine Creator.app/Contents/tilestacktool/ffmpeg/osx/ffmpeg" -threads 8 -loglevel error -benchmark -s 1708x960 -vcodec rawvideo -f rawvideo -pix_fmt rgb24 -r 3 -i pipe:0 -vcodec libx264 -preset slow -pix_fmt yuv420p -crf 24 -g 10 -bf 0 "/Users/eculbertson/Downloads/time_machine/time_machine.timemachine/crf24-3fps-1708x960/2/2/1_Bobs-MacBook-Pro-2.local_1525096035_54841_0_Bobs-MacBook-Pro-2.local_1525096035_54841_1.mp4 
+[DEBUG] 2018-04-30 09:47:16 Wrote 19 frames (93461760 bytes) to ffmpe 
+[DEBUG] 2018-04-30 09:47:16 Renaming /Users/eculbertson/Downloads/time_machine/time_machine.timemachine/crf24-3fps-1708x960/2/2/0_Bobs-MacBook-Pro-2.local_1525096034_54839_0.mp4 to /Users/eculbertson/Downloads/time_machine/time_machine.timemachine/crf24-3fps-1708x960/2/2/0.mp 
+[DEBUG] 2018-04-30 09:47:16 Read 108 tiles from 12 tilestacks.  9.0 tiles per tilestack.  100% tiles compressed 
+[DEBUG] 2018-04-30 09:47:16 9 images rendered (100% fast 
+[DEBUG] 2018-04-30 09:47:16 User time 1.43833, System time 0.1432 
+[DEBUG] 2018-04-30 09:47:16 2018-04-30 09:47:16 Job 40 completed successfull 
+[DEBUG] 2018-04-30 09:47:16 2018-04-30 09:47:16 Rules 81.6% rules finished (40/49). 1 rules executing (in 1 jobs). 6 rules ready to execute. 2 rules awaiting dependencie 
+[DEBUG] 2018-04-30 09:47:16 2018-04-30 09:47:16 Job 42 executing 1 rules [Rule: /Users/eculbertson/Downloads/time_machine/time_machine.timemachine/crf24-3fps-1708x960/2/3/0.mp4].. 
+[DEBUG] 2018-04-30 09:47:16 2018-04-30 09:47:16 Job 42 executing /Applications/Time Machine Creator.app/Contents/tilestacktool/tilestacktool --create-parent-directories --path2stack 1708 960 {"frames":{"start":0,"end":8},"bounds":{"xmin":0,"ymin":720,"width":1708,"height":960}} /Users/eculbertson/Downloads/time_machine/time_machine.tmc/0300-tilestacks --blackstack 10 1708 960 3 8 --cat --writevideo /Users/eculbertson/Downloads/time_machine/time_machine.timemachine/crf24-3fps-1708x960/2/3/0.mp4 3.0 24 h.26 
+[DEBUG] 2018-04-30 09:47:16 stackset_path is /Users/eculbertson/Downloads/time_machine/time_machine.tmc/0300-tilestack 
+[DEBUG] 2018-04-30 09:47:16 Encoding video to /Users/eculbertson/Downloads/time_machine/time_machine.timemachine/crf24-3fps-1708x960/2/3/0.mp4 (temp /Users/eculbertson/Downloads/time_machine/time_machine.timemachine/crf24-3fps-1708x960/2/3/0_Bobs-MacBook-Pro-2.local_1525096036_54843_0.mp4 
+[DEBUG] 2018-04-30 09:47:16 Found ffmpeg at path /Applications/Time Machine Creator.app/Contents/tilestacktool/ffmpeg/osx/ffmpe 
+[DEBUG] 2018-04-30 09:47:16 Cmdline: "/Applications/Time Machine Creator.app/Contents/tilestacktool/ffmpeg/osx/ffmpeg" -threads 8 -loglevel error -benchmark -s 1708x960 -vcodec rawvideo -f rawvideo -pix_fmt rgb24 -r 3 -i pipe:0 -vcodec libx264 -preset slow -pix_fmt yuv420p -crf 24 -g 10 -bf 0 "/Users/eculbertson/Downloads/time_machine/time_machine.timemachine/crf24-3fps-1708x960/2/3/0_Bobs-MacBook-Pro-2.local_1525096036_54843_0_Bobs-MacBook-Pro-2.local_1525096036_54843_1.mp4 
+[DEBUG] 2018-04-30 09:47:18 Wrote 19 frames (93461760 bytes) to ffmpe 
+[DEBUG] 2018-04-30 09:47:18 Renaming /Users/eculbertson/Downloads/time_machine/time_machine.timemachine/crf24-3fps-1708x960/2/2/1_Bobs-MacBook-Pro-2.local_1525096035_54841_0.mp4 to /Users/eculbertson/Downloads/time_machine/time_machine.timemachine/crf24-3fps-1708x960/2/2/1.mp 
+[DEBUG] 2018-04-30 09:47:18 Read 108 tiles from 12 tilestacks.  9.0 tiles per tilestack.  100% tiles compressed 
+[DEBUG] 2018-04-30 09:47:18 9 images rendered (100% fast 
+[DEBUG] 2018-04-30 09:47:18 User time 1.45698, System time 0.1458 
+[DEBUG] 2018-04-30 09:47:18 2018-04-30 09:47:18 Job 41 completed successfull 
+[DEBUG] 2018-04-30 09:47:18 2018-04-30 09:47:18 Rules 83.7% rules finished (41/49). 1 rules executing (in 1 jobs). 5 rules ready to execute. 2 rules awaiting dependencie 
+[DEBUG] 2018-04-30 09:47:18 2018-04-30 09:47:18 Job 43 executing 1 rules [Rule: /Users/eculbertson/Downloads/time_machine/time_machine.timemachine/crf24-3fps-1708x960/2/3/1.mp4].. 
+[DEBUG] 2018-04-30 09:47:18 2018-04-30 09:47:18 Job 43 executing /Applications/Time Machine Creator.app/Contents/tilestacktool/tilestacktool --create-parent-directories --path2stack 1708 960 {"frames":{"start":0,"end":8},"bounds":{"xmin":428,"ymin":720,"width":1708,"height":960}} /Users/eculbertson/Downloads/time_machine/time_machine.tmc/0300-tilestacks --blackstack 10 1708 960 3 8 --cat --writevideo /Users/eculbertson/Downloads/time_machine/time_machine.timemachine/crf24-3fps-1708x960/2/3/1.mp4 3.0 24 h.26 
+[DEBUG] 2018-04-30 09:47:18 stackset_path is /Users/eculbertson/Downloads/time_machine/time_machine.tmc/0300-tilestack 
+[DEBUG] 2018-04-30 09:47:18 Encoding video to /Users/eculbertson/Downloads/time_machine/time_machine.timemachine/crf24-3fps-1708x960/2/3/1.mp4 (temp /Users/eculbertson/Downloads/time_machine/time_machine.timemachine/crf24-3fps-1708x960/2/3/1_Bobs-MacBook-Pro-2.local_1525096038_54845_0.mp4 
+[DEBUG] 2018-04-30 09:47:18 Found ffmpeg at path /Applications/Time Machine Creator.app/Contents/tilestacktool/ffmpeg/osx/ffmpe 
+[DEBUG] 2018-04-30 09:47:18 Cmdline: "/Applications/Time Machine Creator.app/Contents/tilestacktool/ffmpeg/osx/ffmpeg" -threads 8 -loglevel error -benchmark -s 1708x960 -vcodec rawvideo -f rawvideo -pix_fmt rgb24 -r 3 -i pipe:0 -vcodec libx264 -preset slow -pix_fmt yuv420p -crf 24 -g 10 -bf 0 "/Users/eculbertson/Downloads/time_machine/time_machine.timemachine/crf24-3fps-1708x960/2/3/1_Bobs-MacBook-Pro-2.local_1525096038_54845_0_Bobs-MacBook-Pro-2.local_1525096038_54845_1.mp4 
+[DEBUG] 2018-04-30 09:47:19 Wrote 19 frames (93461760 bytes) to ffmpe 
+[DEBUG] 2018-04-30 09:47:19 Renaming /Users/eculbertson/Downloads/time_machine/time_machine.timemachine/crf24-3fps-1708x960/2/3/0_Bobs-MacBook-Pro-2.local_1525096036_54843_0.mp4 to /Users/eculbertson/Downloads/time_machine/time_machine.timemachine/crf24-3fps-1708x960/2/3/0.mp 
+[DEBUG] 2018-04-30 09:47:19 Read 108 tiles from 13 tilestacks.  8.3 tiles per tilestack.  100% tiles compressed 
+[DEBUG] 2018-04-30 09:47:19 9 images rendered (100% fast 
+[DEBUG] 2018-04-30 09:47:19 User time 1.43917, System time 0.14487 
+[DEBUG] 2018-04-30 09:47:19 2018-04-30 09:47:19 Job 42 completed successfull 
+[DEBUG] 2018-04-30 09:47:19 2018-04-30 09:47:19 Rules 85.7% rules finished (42/49). 1 rules executing (in 1 jobs). 4 rules ready to execute. 2 rules awaiting dependencie 
+[DEBUG] 2018-04-30 09:47:19 2018-04-30 09:47:19 Job 44 executing 1 rules [Rule: /Users/eculbertson/Downloads/time_machine/time_machine.timemachine/crf24-3fps-1708x960/2/4/0.mp4].. 
+[DEBUG] 2018-04-30 09:47:19 2018-04-30 09:47:19 Job 44 executing /Applications/Time Machine Creator.app/Contents/tilestacktool/tilestacktool --create-parent-directories --path2stack 1708 960 {"frames":{"start":0,"end":8},"bounds":{"xmin":0,"ymin":960,"width":1708,"height":960}} /Users/eculbertson/Downloads/time_machine/time_machine.tmc/0300-tilestacks --blackstack 10 1708 960 3 8 --cat --writevideo /Users/eculbertson/Downloads/time_machine/time_machine.timemachine/crf24-3fps-1708x960/2/4/0.mp4 3.0 24 h.26 
+[DEBUG] 2018-04-30 09:47:19 stackset_path is /Users/eculbertson/Downloads/time_machine/time_machine.tmc/0300-tilestack 
+[DEBUG] 2018-04-30 09:47:19 Encoding video to /Users/eculbertson/Downloads/time_machine/time_machine.timemachine/crf24-3fps-1708x960/2/4/0.mp4 (temp /Users/eculbertson/Downloads/time_machine/time_machine.timemachine/crf24-3fps-1708x960/2/4/0_Bobs-MacBook-Pro-2.local_1525096039_54847_0.mp4 
+[DEBUG] 2018-04-30 09:47:19 Found ffmpeg at path /Applications/Time Machine Creator.app/Contents/tilestacktool/ffmpeg/osx/ffmpe 
+[DEBUG] 2018-04-30 09:47:19 Cmdline: "/Applications/Time Machine Creator.app/Contents/tilestacktool/ffmpeg/osx/ffmpeg" -threads 8 -loglevel error -benchmark -s 1708x960 -vcodec rawvideo -f rawvideo -pix_fmt rgb24 -r 3 -i pipe:0 -vcodec libx264 -preset slow -pix_fmt yuv420p -crf 24 -g 10 -bf 0 "/Users/eculbertson/Downloads/time_machine/time_machine.timemachine/crf24-3fps-1708x960/2/4/0_Bobs-MacBook-Pro-2.local_1525096039_54847_0_Bobs-MacBook-Pro-2.local_1525096039_54847_1.mp4 
+[DEBUG] 2018-04-30 09:47:20 Wrote 19 frames (93461760 bytes) to ffmpe 
+[DEBUG] 2018-04-30 09:47:20 Renaming /Users/eculbertson/Downloads/time_machine/time_machine.timemachine/crf24-3fps-1708x960/2/3/1_Bobs-MacBook-Pro-2.local_1525096038_54845_0.mp4 to /Users/eculbertson/Downloads/time_machine/time_machine.timemachine/crf24-3fps-1708x960/2/3/1.mp 
+[DEBUG] 2018-04-30 09:47:20 Read 108 tiles from 13 tilestacks.  8.3 tiles per tilestack.  100% tiles compressed 
+[DEBUG] 2018-04-30 09:47:20 9 images rendered (100% fast 
+[DEBUG] 2018-04-30 09:47:20 User time 1.42583, System time 0.13801 
+[DEBUG] 2018-04-30 09:47:20 2018-04-30 09:47:20 Job 43 completed successfull 
+[DEBUG] 2018-04-30 09:47:20 2018-04-30 09:47:20 Rules 87.8% rules finished (43/49). 1 rules executing (in 1 jobs). 3 rules ready to execute. 2 rules awaiting dependencie 
+[DEBUG] 2018-04-30 09:47:20 2018-04-30 09:47:20 Job 45 executing 1 rules [Rule: /Users/eculbertson/Downloads/time_machine/time_machine.timemachine/crf24-3fps-1708x960/2/4/1.mp4].. 
+[DEBUG] 2018-04-30 09:47:20 2018-04-30 09:47:20 Job 45 executing /Applications/Time Machine Creator.app/Contents/tilestacktool/tilestacktool --create-parent-directories --path2stack 1708 960 {"frames":{"start":0,"end":8},"bounds":{"xmin":428,"ymin":960,"width":1708,"height":960}} /Users/eculbertson/Downloads/time_machine/time_machine.tmc/0300-tilestacks --blackstack 10 1708 960 3 8 --cat --writevideo /Users/eculbertson/Downloads/time_machine/time_machine.timemachine/crf24-3fps-1708x960/2/4/1.mp4 3.0 24 h.26 
+[DEBUG] 2018-04-30 09:47:20 stackset_path is /Users/eculbertson/Downloads/time_machine/time_machine.tmc/0300-tilestack 
+[DEBUG] 2018-04-30 09:47:20 Encoding video to /Users/eculbertson/Downloads/time_machine/time_machine.timemachine/crf24-3fps-1708x960/2/4/1.mp4 (temp /Users/eculbertson/Downloads/time_machine/time_machine.timemachine/crf24-3fps-1708x960/2/4/1_Bobs-MacBook-Pro-2.local_1525096040_54850_0.mp4 
+[DEBUG] 2018-04-30 09:47:20 Found ffmpeg at path /Applications/Time Machine Creator.app/Contents/tilestacktool/ffmpeg/osx/ffmpe 
+[DEBUG] 2018-04-30 09:47:20 Cmdline: "/Applications/Time Machine Creator.app/Contents/tilestacktool/ffmpeg/osx/ffmpeg" -threads 8 -loglevel error -benchmark -s 1708x960 -vcodec rawvideo -f rawvideo -pix_fmt rgb24 -r 3 -i pipe:0 -vcodec libx264 -preset slow -pix_fmt yuv420p -crf 24 -g 10 -bf 0 "/Users/eculbertson/Downloads/time_machine/time_machine.timemachine/crf24-3fps-1708x960/2/4/1_Bobs-MacBook-Pro-2.local_1525096040_54850_0_Bobs-MacBook-Pro-2.local_1525096040_54850_1.mp4 
+[DEBUG] 2018-04-30 09:47:21 Wrote 19 frames (93461760 bytes) to ffmpe 
+[DEBUG] 2018-04-30 09:47:21 Renaming /Users/eculbertson/Downloads/time_machine/time_machine.timemachine/crf24-3fps-1708x960/2/4/0_Bobs-MacBook-Pro-2.local_1525096039_54847_0.mp4 to /Users/eculbertson/Downloads/time_machine/time_machine.timemachine/crf24-3fps-1708x960/2/4/0.mp 
+[DEBUG] 2018-04-30 09:47:21 Read 108 tiles from 13 tilestacks.  8.3 tiles per tilestack.  100% tiles compressed 
+[DEBUG] 2018-04-30 09:47:21 9 images rendered (100% fast 
+[DEBUG] 2018-04-30 09:47:21 User time 1.45392, System time 0.1399 
+[DEBUG] 2018-04-30 09:47:21 2018-04-30 09:47:21 Job 44 completed successfull 
+[DEBUG] 2018-04-30 09:47:21 2018-04-30 09:47:21 Rules 89.8% rules finished (44/49). 1 rules executing (in 1 jobs). 2 rules ready to execute. 2 rules awaiting dependencie 
+[DEBUG] 2018-04-30 09:47:21 2018-04-30 09:47:21 Job 46 executing 1 rules [Rule: /Users/eculbertson/Downloads/time_machine/time_machine.timemachine/crf24-3fps-1708x960/2/5/0.mp4].. 
+[DEBUG] 2018-04-30 09:47:21 2018-04-30 09:47:21 Job 46 executing /Applications/Time Machine Creator.app/Contents/tilestacktool/tilestacktool --create-parent-directories --path2stack 1708 960 {"frames":{"start":0,"end":8},"bounds":{"xmin":0,"ymin":1200,"width":1708,"height":960}} /Users/eculbertson/Downloads/time_machine/time_machine.tmc/0300-tilestacks --blackstack 10 1708 960 3 8 --cat --writevideo /Users/eculbertson/Downloads/time_machine/time_machine.timemachine/crf24-3fps-1708x960/2/5/0.mp4 3.0 24 h.26 
+[DEBUG] 2018-04-30 09:47:21 stackset_path is /Users/eculbertson/Downloads/time_machine/time_machine.tmc/0300-tilestack 
+[DEBUG] 2018-04-30 09:47:21 Encoding video to /Users/eculbertson/Downloads/time_machine/time_machine.timemachine/crf24-3fps-1708x960/2/5/0.mp4 (temp /Users/eculbertson/Downloads/time_machine/time_machine.timemachine/crf24-3fps-1708x960/2/5/0_Bobs-MacBook-Pro-2.local_1525096041_54852_0.mp4 
+[DEBUG] 2018-04-30 09:47:21 Found ffmpeg at path /Applications/Time Machine Creator.app/Contents/tilestacktool/ffmpeg/osx/ffmpe 
+[DEBUG] 2018-04-30 09:47:21 Cmdline: "/Applications/Time Machine Creator.app/Contents/tilestacktool/ffmpeg/osx/ffmpeg" -threads 8 -loglevel error -benchmark -s 1708x960 -vcodec rawvideo -f rawvideo -pix_fmt rgb24 -r 3 -i pipe:0 -vcodec libx264 -preset slow -pix_fmt yuv420p -crf 24 -g 10 -bf 0 "/Users/eculbertson/Downloads/time_machine/time_machine.timemachine/crf24-3fps-1708x960/2/5/0_Bobs-MacBook-Pro-2.local_1525096041_54852_0_Bobs-MacBook-Pro-2.local_1525096041_54852_1.mp4 
+[DEBUG] 2018-04-30 09:47:22 Wrote 19 frames (93461760 bytes) to ffmpe 
+[DEBUG] 2018-04-30 09:47:22 Renaming /Users/eculbertson/Downloads/time_machine/time_machine.timemachine/crf24-3fps-1708x960/2/4/1_Bobs-MacBook-Pro-2.local_1525096040_54850_0.mp4 to /Users/eculbertson/Downloads/time_machine/time_machine.timemachine/crf24-3fps-1708x960/2/4/1.mp 
+[DEBUG] 2018-04-30 09:47:22 Read 108 tiles from 13 tilestacks.  8.3 tiles per tilestack.  100% tiles compressed 
+[DEBUG] 2018-04-30 09:47:22 9 images rendered (100% fast 
+[DEBUG] 2018-04-30 09:47:22 User time 1.43025, System time 0.14042 
+[DEBUG] 2018-04-30 09:47:22 2018-04-30 09:47:22 Job 45 completed successfull 
+[DEBUG] 2018-04-30 09:47:22 2018-04-30 09:47:22 Rules 91.8% rules finished (45/49). 1 rules executing (in 1 jobs). 1 rules ready to execute. 2 rules awaiting dependencie 
+[DEBUG] 2018-04-30 09:47:22 2018-04-30 09:47:22 Job 47 executing 1 rules [Rule: /Users/eculbertson/Downloads/time_machine/time_machine.timemachine/crf24-3fps-1708x960/2/5/1.mp4].. 
+[DEBUG] 2018-04-30 09:47:22 2018-04-30 09:47:22 Job 47 executing /Applications/Time Machine Creator.app/Contents/tilestacktool/tilestacktool --create-parent-directories --path2stack 1708 960 {"frames":{"start":0,"end":8},"bounds":{"xmin":428,"ymin":1200,"width":1708,"height":960}} /Users/eculbertson/Downloads/time_machine/time_machine.tmc/0300-tilestacks --blackstack 10 1708 960 3 8 --cat --writevideo /Users/eculbertson/Downloads/time_machine/time_machine.timemachine/crf24-3fps-1708x960/2/5/1.mp4 3.0 24 h.26 
+[DEBUG] 2018-04-30 09:47:22 stackset_path is /Users/eculbertson/Downloads/time_machine/time_machine.tmc/0300-tilestack 
+[DEBUG] 2018-04-30 09:47:22 Encoding video to /Users/eculbertson/Downloads/time_machine/time_machine.timemachine/crf24-3fps-1708x960/2/5/1.mp4 (temp /Users/eculbertson/Downloads/time_machine/time_machine.timemachine/crf24-3fps-1708x960/2/5/1_Bobs-MacBook-Pro-2.local_1525096042_54854_0.mp4 
+[DEBUG] 2018-04-30 09:47:22 Found ffmpeg at path /Applications/Time Machine Creator.app/Contents/tilestacktool/ffmpeg/osx/ffmpe 
+[DEBUG] 2018-04-30 09:47:22 Cmdline: "/Applications/Time Machine Creator.app/Contents/tilestacktool/ffmpeg/osx/ffmpeg" -threads 8 -loglevel error -benchmark -s 1708x960 -vcodec rawvideo -f rawvideo -pix_fmt rgb24 -r 3 -i pipe:0 -vcodec libx264 -preset slow -pix_fmt yuv420p -crf 24 -g 10 -bf 0 "/Users/eculbertson/Downloads/time_machine/time_machine.timemachine/crf24-3fps-1708x960/2/5/1_Bobs-MacBook-Pro-2.local_1525096042_54854_0_Bobs-MacBook-Pro-2.local_1525096042_54854_1.mp4 
+[DEBUG] 2018-04-30 09:47:23 Wrote 19 frames (93461760 bytes) to ffmpe 
+[DEBUG] 2018-04-30 09:47:23 Renaming /Users/eculbertson/Downloads/time_machine/time_machine.timemachine/crf24-3fps-1708x960/2/5/0_Bobs-MacBook-Pro-2.local_1525096041_54852_0.mp4 to /Users/eculbertson/Downloads/time_machine/time_machine.timemachine/crf24-3fps-1708x960/2/5/0.mp 
+[DEBUG] 2018-04-30 09:47:23 Read 72 tiles from 9 tilestacks.  8.0 tiles per tilestack.  100% tiles compressed 
+[DEBUG] 2018-04-30 09:47:23 9 images rendered (100% fast 
+[DEBUG] 2018-04-30 09:47:23 User time 1.25112, System time 0.12235 
+[DEBUG] 2018-04-30 09:47:23 2018-04-30 09:47:23 Job 46 completed successfull 
+[DEBUG] 2018-04-30 09:47:23 2018-04-30 09:47:23 Rules 93.9% rules finished (46/49). 1 rules executing (in 1 jobs). 0 rules ready to execute. 2 rules awaiting dependencie 
+[DEBUG] 2018-04-30 09:47:24 Wrote 19 frames (93461760 bytes) to ffmpe 
+[DEBUG] 2018-04-30 09:47:24 Renaming /Users/eculbertson/Downloads/time_machine/time_machine.timemachine/crf24-3fps-1708x960/2/5/1_Bobs-MacBook-Pro-2.local_1525096042_54854_0.mp4 to /Users/eculbertson/Downloads/time_machine/time_machine.timemachine/crf24-3fps-1708x960/2/5/1.mp 
+[DEBUG] 2018-04-30 09:47:24 Read 72 tiles from 9 tilestacks.  8.0 tiles per tilestack.  100% tiles compressed 
+[DEBUG] 2018-04-30 09:47:24 9 images rendered (100% fast 
+[DEBUG] 2018-04-30 09:47:24 User time 1.18554, System time 0.1309 
+[DEBUG] 2018-04-30 09:47:24 2018-04-30 09:47:24 Job 47 completed successfull 
+[DEBUG] 2018-04-30 09:47:24 2018-04-30 09:47:24 Rules 95.9% rules finished (47/49). 0 rules executing (in 0 jobs). 1 rules ready to execute. 1 rules awaiting dependencie 
+[DEBUG] 2018-04-30 09:47:24 2018-04-30 09:47:24 Job 48 executing 1 rules [Rule: /Users/eculbertson/Downloads/time_machine/time_machine.timemachine/COMPLETE].. 
+[DEBUG] 2018-04-30 09:47:24 2018-04-30 09:47:24 Job 48 executing /Applications/Time Machine Creator.app/Contents/tilestacktool/tilestacktool --createfile /Users/eculbertson/Downloads/time_machine/time_machine.timemachine/COMPLET 
+[DEBUG] 2018-04-30 09:47:24 Read 0 tiles from 0 tilestacks 
+[DEBUG] 2018-04-30 09:47:24 0 images rendere 
+[DEBUG] 2018-04-30 09:47:24 User time 0.001615, System time 0.00151 
+[DEBUG] 2018-04-30 09:47:24 2018-04-30 09:47:24 Job 48 completed successfull 
+[DEBUG] 2018-04-30 09:47:24 2018-04-30 09:47:24 Rules 98.0% rules finished (48/49). 0 rules executing (in 0 jobs). 1 rules ready to execute. 0 rules awaiting dependencie 
+[DEBUG] 2018-04-30 09:47:24 2018-04-30 09:47:24 Job 49 executing 1 rules [Rule: capture_times].. 
+[DEBUG] 2018-04-30 09:47:24 2018-04-30 09:47:24 Job 49 executing ruby /Applications/Time Machine Creator.app/Contents/ct/extract_exif_capturetimes.rb /Users/eculbertson/Downloads/time_machine/time_machine.tmc/definition.tmc /Users/eculbertson/Downloads/time_machine/time_machine.timemachine/tm.jso 
+[DEBUG] 2018-04-30 09:47:24 Successfully wrote capture times to /Users/eculbertson/Downloads/time_machine/time_machine.timemachine/tm.jso 
+[DEBUG] 2018-04-30 09:47:24 2018-04-30 09:47:24 Job 49 completed successfull 
+[DEBUG] 2018-04-30 09:47:24 2018-04-30 09:47:24 Rules 100.0% rules finished (49/49). 0 rules executing (in 0 jobs). 0 rules ready to execute. 0 rules awaiting dependencie 
+[DEBUG] 2018-04-30 09:47:24 2018-04-30 09:47:24: Completed 49 rules (49 jobs) in 0d 0h 0m 22 
+[DEBUG] 2018-04-30 09:47:24 /Applications/Time Machine Creator.app/Contents/ct/ct.rb:1931: warning: class variable access from topleve 
+[DEBUG] 2018-04-30 09:47:24 /Applications/Time Machine Creator.app/Contents/ct/ct.rb:1934: warning: class variable access from topleve 
+[DEBUG] 2018-04-30 09:47:24 /Applications/Time Machine Creator.app/Contents/ct/ct.rb:1936: warning: class variable access from topleve 
+[DEBUG] 2018-04-30 09:47:24 /Applications/Time Machine Creator.app/Contents/ct/ct.rb:1938: warning: class variable access from topleve 
+[DEBUG] 2018-04-30 09:47:24 Wrote final /Users/eculbertson/Downloads/time_machine/time_machine.timemachine/ajax_includes.j 
+[DEBUG] 2018-04-30 09:47:24 If you're authoring a mediawiki page at timemachine.gigapan.org, you can add this to your page to see the result: {{TimelapseViewer|timelapse_id=|timelapse_dataset=1|show_timewarp_composer=true} 
+[DEBUG] 2018-04-30 09:47:24 View at file:///Users/eculbertson/Downloads/time_machine/time_machine.timemachine/view.htm 
+[DEBUG] 2018-04-30 09:47:24 Execution took 22.512188 second 

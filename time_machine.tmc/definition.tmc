@@ -1,0 +1,46 @@
+{
+  "sort_by": "timestamp",
+  "source": {
+    "type": "images",
+    "images": [
+      [
+        "/Users/eculbertson/Desktop/movie_change/with-rectangle/try_again/movie_maker - 8.jpg",
+        "/Users/eculbertson/Desktop/movie_change/with-rectangle/try_again/movie_maker - 7.jpg",
+        "/Users/eculbertson/Desktop/movie_change/with-rectangle/try_again/movie_maker - 6.jpg",
+        "/Users/eculbertson/Desktop/movie_change/with-rectangle/try_again/movie_maker - 5.jpg",
+        "/Users/eculbertson/Desktop/movie_change/with-rectangle/try_again/movie_maker - 4.jpg",
+        "/Users/eculbertson/Desktop/movie_change/with-rectangle/try_again/movie_maker - 3.jpg",
+        "/Users/eculbertson/Desktop/movie_change/with-rectangle/try_again/movie_maker - 2.jpg",
+        "/Users/eculbertson/Desktop/movie_change/with-rectangle/try_again/movie_maker - 9.jpg",
+        "/Users/eculbertson/Desktop/movie_change/with-rectangle/try_again/movie_maker - 1.jpg"
+      ]
+    ],
+    "capture_times": [
+      [
+        1501791670,
+        1502742071,
+        1503951671,
+        1507666874,
+        1508012472,
+        1508444472,
+        1509394873,
+        1509654073,
+        1510886353
+      ]
+    ],
+    "capture_time_parser": "/Applications/Time Machine Creator.app/Contents/ct/extract_exif_capturetimes.rb",
+    "tilesize": 512
+  },
+  "videosets": [
+    {
+      "type": "h.264",
+      "label": "720p",
+      "size": [
+        1280,
+        720
+      ],
+      "compression": 24,
+      "fps": "3"
+    }
+  ]
+}
